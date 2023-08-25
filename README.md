@@ -21,3 +21,6 @@ Minha jornada abrange desde a liderança estratégica de Operações de Seguran�
 
 ![DwightSchruteTheOfficeGIF](https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/3296237a-1776-42c3-9507-69d787287c73)
 
+![image](https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/e520a5b9-eae0-482c-b5e6-75e01a96ee0f)
+
+
