@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Ridd1kulusC0d3r/Ridd1kulusC0d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
