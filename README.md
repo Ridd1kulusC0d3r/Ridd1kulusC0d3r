@@ -22,84 +22,81 @@ Minha jornada abrange desde a liderança estratégica de Operações de Seguran�
 ![DwightSchruteTheOfficeGIF](https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/3296237a-1776-42c3-9507-69d787287c73)
 
 ![image](https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100)
+<div align="center"> 
 
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# Hello guys!👋 
 
-# Sobre o projeto
+<p><img src="https://tenor.com/view/hello-bear-how-are-you-greetings-salutations-gif-5948601.gif"/></p>
 
-https://wmazoni-sds1.netlify.app
+<p>I’m Sh4dow-BR and thanks for stopping by!</p>
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+<p>I'm just a guy learning the ways around Github, learning cybersecurity and coding some projects on the way!</p>
+<p>Find me at LinkedIn for more details about who I am :smile:</p>
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+<div>
+  <a href="https:/https://github.com/Sh4dow-BR/">
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=Sh4dow-BR&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=true"/>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4dow-BR&layout=compact&theme=dark&hide_border=true"/>
+</div>
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+  
+### Reach me at:
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&labelColor=1ca0f1&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoshadowbr/)](https://www.linkedin.com/in/falencarr/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://telegram.me/Cyb3r_t3ach3r)](https://telegram.me/Cyb3r_t3ach3r)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sh4dow__BR)](https://twitter.com/sh4dow__BR)
 
 
+### I have worked with:
 
+![Sophos](https://img.shields.io/badge/-Sophos-blue?style=for-the-badge&logo=sophos&logoColor=white)
+![Zabbix](https://img.shields.io/badge/-Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-orange?style=for-the-badge&logo=grafana&logoColor=white)
+
+
+### Favorite Linux Distros:
+
+![Debian Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Parrot OS Badge](https://img.shields.io/badge/Parrot_OS-blue?style=for-the-badge&logo=parrot&logoColor=white)
+![]()
+![]()
+
+
+### Favorite IDEs:
+#### For log analysis:
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
+<p></p>
+
+#### General coding:
+![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+  
+### I have some skills in some of these areas:
+
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-brown?style=for-the-badge&logo=shell&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-grey?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=black)
+
+<p></p>
+
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vagrant](https://img.shields.io/badge/-Vagrant-blue?style=for-the-badge&logo=vagrant&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### FUN FACT:
+### I'd rather be a jack of all trades because
+### A jack of all trades is a master of none, 
+### but oftentimes better than a master of one.
+
+<img src="https://user-images.githubusercontent.com/108578555/181788572-a1a25b4b-4842-4329-b2da-e1d297953001.gif" width="300">
+
+
+### Now...Let's get back to work!
+  
+![hackerman](https://user-images.githubusercontent.com/108578555/179306285-a995a1ca-e19f-4cea-9c69-215b798c0ec4.gif)
+</div>
