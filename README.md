@@ -25,15 +25,3 @@ Minha jornada abrange desde a liderança estratégica de Operações de Seguran�
 <div align="center"> 
 
 <div align="center"> 
-
-
-
-<div>
-  <a href="https:/https://github.com/Sh4dow-BR/">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=Ridd1kulusC0d3r&count_private=true&show_icons=true&theme=white&hide_border=true&hide_rank=true"/>
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=white&hide_border=true"/>
-</div>
-
-
- 
-</div>
