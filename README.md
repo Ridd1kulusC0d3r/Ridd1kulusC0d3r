@@ -26,9 +26,9 @@ Minha jornada abrange desde a liderança estratégica de Operações de Seguran�
 
 
 <div>
-  <a href="https:/https://github.com/Sh4dow-BR/">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=Sh4dow-BR&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=true"/>
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4dow-BR&layout=compact&theme=dark&hide_border=true"/>
+  <a href="https:/https://github.com/Ridd1kulusC0d3r/">
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=Ridd1kulusC0d3r&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=true"/>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 <div align="center"> 
