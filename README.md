@@ -38,3 +38,6 @@ Minha jornada abrange desde a liderança estratégica de Operações de Seguran�
 ## Programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&langs_count=8)](https://github.com/CyberSecurityUP/github-readme-stats)
+
+
+![image](https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/99fe4cbd-6692-42a3-8a90-1cd0e28c3728)
