@@ -31,3 +31,8 @@ Minha jornada abrange desde a liderança estratégica de Operações de Seguran�
   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&langs_count=8)](https://github.com/Ridd1kulusC0d3r/github-readme-stats)
