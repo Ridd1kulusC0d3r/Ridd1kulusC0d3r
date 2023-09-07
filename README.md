@@ -45,7 +45,9 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e te
 
 
 
+<div>
 ![DwightSchruteTheOfficeGIF](https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/3296237a-1776-42c3-9507-69d787287c73)
+</div>
 
 ![image](https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100)
 
@@ -56,9 +58,6 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e te
   <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=Ridd1kulusC0d3r&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=true"/>
   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=dark&hide_border=true"/>
 </div>
-
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&langs_count=8)](https://github.com/Ridd1kulusC0d3r/github-readme-stats)
