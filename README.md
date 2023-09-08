@@ -41,8 +41,6 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e te
 - **Investigação de Ataques Ransomware** - *AFD - Academia Forense Digital* - 10 horas (Cursando)
 - **Resposta a Incidentes** - *AFD - Academia Forense Digital* - 40 horas (Ago/2023)
 - **Masterclass Osint for Cyberwarfare** - *Lobo Inteligência* - 10 horas (Ago/2023)
-  
-
 
 
 
