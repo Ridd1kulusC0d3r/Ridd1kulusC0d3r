@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Olá seja bem vindo ao meu profile 😊
 div align="center">
-<img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/c9d0509c-dd61-4fd6-81ef-65cde250a318" width="700px" />
+<img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/c9d0509c-dd61-4fd6-81ef-65cde250a318" width="250px" />
 </div>
 
 Sou coordenador de SOC, Psicólogo especializado em Cyber Intelligence e Mentor de Carreira em Cybersecurity. 
