@@ -55,11 +55,8 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e te
 </div>
 
 
-<div>
+<div align="center">
   <a href="https:/https://github.com/Ridd1kulusC0d3r/">
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=Ridd1kulusC0d3r&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=true"/>
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=dark&hide_border=true"/>
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=Ridd1kulusC0d3r&count_private=true&show_icons=true&theme=white&hide_border=true&hide_rank=true"/>
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=blue&hide_border=true"/>
 </div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&langs_count=8)](https://github.com/Ridd1kulusC0d3r/github-readme-stats)
