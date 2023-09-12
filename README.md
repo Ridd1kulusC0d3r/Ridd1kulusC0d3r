@@ -30,7 +30,7 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e te
 - **MBA em Gestão de Projetos com Ênfase em Tecnologia** - *Faculdade Vincit (UNICIV)* - Concluído em 2019
 - **Bacharel em Psicologia** - Faculdade Pitagoras (FPAS)* - Concluído em 2021
 - **Especialização em CTI - Cyber Threat Intelligence** - *Daryus* - Concluído em 2023
-### Especialização em Andamento
+### Especializaçôes em Andamento
 - **Espcialização em Investigação Digital** - *WB Educacional* - Em andamento
 - **Comportamento Não Verbal e Análise de Credibilidade** - *ClueLab/FACSM Faculdade São Marcos* - Em andamento
 ### Certificações em Andamento
