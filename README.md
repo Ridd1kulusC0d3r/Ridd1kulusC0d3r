@@ -51,14 +51,14 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e te
 </div>
 
 <div align="center">
-<img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="600px" />
+<img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="400px" />
 </div>
 
 
 <div>
   <a href="https:/https://github.com/Ridd1kulusC0d3r/">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=Ridd1kulusC0d3r&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=true"/>
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=dark&hide_border=true"/>
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=Ridd1kulusC0d3r&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=true"/>
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 
