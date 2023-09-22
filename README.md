@@ -1,12 +1,9 @@
 # Olá seja bem vindo ao meu Perfil 😊
-
 <div align="center">
 <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/c9d0509c-dd61-4fd6-81ef-65cde250a318" width="250px" />
 </div>
-
 Sou coordenador de SOC, Psicólogo especializado em Cyber Intelligence e Mentor de Carreira em Cybersecurity. 
 Minha jornada abrange desde a liderança estratégica de Operações de Segurança até a análise profunda de de Hunting e conectando com inteligência cibernética. Nas horas vagas, também gosto de escrever e compartilhar conhecimento sobre segurança e tecnologia. Vamos trocar ideias e crescer juntos? 💻🧠🦠
-
 Atualmente, estou buscando expandir minha atuação para a área acadêmica e tenho o desejo de me tornar um professor no ensino superior. Estou continuamente buscando aprimorar meus conhecimentos e habilidades para contribuir com o desenvolvimento de novos talentos no mercado.
 
 ### Formação Acadêmica
@@ -29,7 +26,6 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e te
 - **Investigação de Ataques Ransomware** - *AFD - Academia Forense Digital* - 10 horas (Cursando)
 - **Resposta a Incidentes** - *AFD - Academia Forense Digital* - 40 horas (Ago/2023)
 - **Masterclass Osint for Cyberwarfare** - *Lobo Inteligência* - 10 horas (Ago/2023)
-
 
 <div align="center">
 <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/3296237a-1776-42c3-9507-69d787287c73" width="250px" />
