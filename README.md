@@ -36,7 +36,6 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e te
 <img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="550px" />
 </div>
 
-
 <div align="center">
   <a href="https:/https://github.com/Ridd1kulusC0d3r/">
   <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=Ridd1kulusC0d3r&count_private=true&show_icons=true&theme=white&hide_border=true&hide_rank=true"/>
