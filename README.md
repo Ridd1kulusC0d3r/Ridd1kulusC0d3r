@@ -10,7 +10,7 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e ve
 - **Especialização em Investigação Digital** - *WB Educacional* - Em andamento
 - **Comportamento Não Verbal e Análise de Credibilidade** - *ClueLab/FACSM Faculdade São Marcos* - Em andamento
 - **Especialização em CTI - Cyber Threat Intelligence** - *Daryus*
-- **Bacharel em Psicologia** - Faculdade Pitagoras (FPAS)*
+- **Bacharel em Psicologia** - *Faculdade Pitagoras (FPAS)*
 - **MBA em Gestão de Projetos com Ênfase em Tecnologia** - *Faculdade Vincit (UNICIV)*
 - **Graduação em Tecnologia em Redes de Computadores** - *Faculdade Pitagoras (FPAS)*
 - **Técnico em Informática** - *Faculdade Pitagoras (FPAS)*
