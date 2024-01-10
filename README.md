@@ -2,19 +2,19 @@
 <div align="center">
 <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/c9d0509c-dd61-4fd6-81ef-65cde250a318" width="250px" />
 </div>
-Sou coordenador de SOC, Psicólogo especializado em Cyber Intelligence e Mentor de Carreira em Cybersecurity. 
-Minha jornada abrange desde a liderança estratégica de Operações de Segurança até a análise profunda de de Hunting e conectando com inteligência cibernética. Nas horas vagas, também gosto de escrever e compartilhar conhecimento sobre segurança e tecnologia. Vamos trocar ideias e crescer juntos? 💻🧠🦠.
+Sou coordenador de SOC, Psicólogo especializado em Cyber Intelligence e Mentor de Carreira em Cybersecurity. Minha jornada abrange desde a liderança estratégica de Operações de Segurança até a análise profunda de de Hunting e conectando com inteligência cibernética. Nas horas vagas, também gosto de escrever e compartilhar conhecimento sobre segurança e tecnologia. 
 
-Atualmente, estou buscando expandir minha atuação para a área acadêmica e tenho o desejo de me tornar um professor no ensino superior. Estou continuamente buscando aprimorar meus conhecimentos e habilidades para contribuir com o desenvolvimento de novos talentos no mercado.
+Atualmente, estou buscando expandir minha atuação para a área acadêmica e venho atuando como professor no ensino superior. Estou continuamente buscando aprimorar meus conhecimentos e habilidades para contribuir com o desenvolvimento de novos talentos no mercado.
 
 ### Formação Acadêmica
-- **Técnico em Informática** - *Faculdade Pitagoras (FPAS)* - Concluído em 2015
-- **Graduação em Tecnologia em Redes de Computadores** - *Faculdade Pitagoras (FPAS)* - Concluído em 2018
-- **MBA em Gestão de Projetos com Ênfase em Tecnologia** - *Faculdade Vincit (UNICIV)* - Concluído em 2019
-- **Bacharel em Psicologia** - Faculdade Pitagoras (FPAS)* - Concluído em 2021
-- **Especialização em CTI - Cyber Threat Intelligence** - *Daryus* - Concluído em 2023
 - **Especialização em Investigação Digital** - *WB Educacional* - Em andamento
 - **Comportamento Não Verbal e Análise de Credibilidade** - *ClueLab/FACSM Faculdade São Marcos* - Em andamento
+- **Especialização em CTI - Cyber Threat Intelligence** - *Daryus*
+- **Bacharel em Psicologia** - Faculdade Pitagoras (FPAS)*
+- **MBA em Gestão de Projetos com Ênfase em Tecnologia** - *Faculdade Vincit (UNICIV)*
+- **Graduação em Tecnologia em Redes de Computadores** - *Faculdade Pitagoras (FPAS)*
+- **Técnico em Informática** - *Faculdade Pitagoras (FPAS)*
+  
 ### Certificações em Andamento
 - **AWS (Amazon Web Services)**
 - **CTIA (Certified Threat Intelligence Analyst)**
