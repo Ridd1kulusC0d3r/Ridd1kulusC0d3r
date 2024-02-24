@@ -21,11 +21,14 @@ Vitallis           :active,, 2021-04-01,2021-08-01
 Clavis Segurança da Informação                :active,, 2021-08-01,2024-12-31
 
 section Acadêmico
-CNI Escola Profissionalizante            :active,, 2011-10-01,2012-02-31
 CNI Escola Profissionalizante :active,, 2011-10-01,2012-02-31
 CECyber :active,, 2022-08-01,2024-12-31
 Kroton              :active,, 2022-09-01,2024-12-31
-Cogna Educação      :active,, 2023-04-01,2023-09-31
+Cogna Educação      :active,, 2023-04-01,2023-10-31
+Mente Binária :active,, 2023-05-01,2023-09-31
+Escola da Nuvem :active,, 2023-05-01,2023-12-31
+Ars Magna :active,, 2023-06-01,2025-12-31
+
 
 section Voluntário
 Faculdade Pitagoras Cid academica :active,, 2015-09-01,2019-01-31
