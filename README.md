@@ -22,6 +22,7 @@ Clavis Segurança da Informação                :active,, 2021-08-01,2024-12-31
 
 section Acadêmico
 CNI Escola Profissionalizante            :active,, 2011-10-01,2012-02-31
+CNI Escola Profissionalizante :active,, 2011-10-01,2012-02-31
 CECyber :active,, 2022-08-01,2024-12-31
 Kroton              :active,, 2022-09-01,2024-12-31
 Cogna Educação      :active,, 2023-04-01,2023-09-31
