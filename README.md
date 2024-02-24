@@ -10,7 +10,7 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e ve
 
 gantt
 dateFormat  YYYY-MM-DD
-title My Timeline
+title Minha carreira atualmente
 
 section Carreira
 Tapps Games           :active,, 2016-11-01,2017-04-01
@@ -20,10 +20,13 @@ Via Varejo            :active,, 2019-11-01,2021-01-01
 Gamers Club           :active,, 2021-03-01,2023-05-01
 idwall                :active,, 2023-09-01,2023-12-31
 
-section Professor
+section Acadêmico
 Téo Me Why             :active,, 2019-08-01,2024-12-31
 Instituto Aaron Swartz :active,, 2023-02-01,2024-12-31
 ASN.Rocks              :active,, 2020-06-01,2024-12-31
+
+section Voluntário
+Atendimento clinico    :active,, 2017-06-01,2024-12-31
 ```
 
 ### Formação Acadêmica
