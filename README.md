@@ -25,25 +25,6 @@ Téo Me Why             :active,, 2019-08-01,2024-12-31
 Instituto Aaron Swartz :active,, 2023-02-01,2024-12-31
 ASN.Rocks              :active,, 2020-06-01,2024-12-31
 ```
-## Atuação profissional
-
-:id: Data Science & Analytics Manager - idwall (09.2023 - 01.2024)
-
-:video_game: Head of Data - Gamers Club (03.2021 - 05.2023)
-
-:blue_book:	Professor - ASN.Rocks (06.2020 - Atual)
-
-:shopping_cart:	 Coordenador de Customer Centric (Activation) - Via Varejo (11.2020 - 02.2021)
-
-:shopping_cart:	 Consultor de Data Science - Via Varejo (11.2019 - 02.2020)
-
-:lipstick: Analista de CRM - Grupo Boticário (08.2018 - 11.2019)
-
-:computer: Consultor em Advanced Analytics - SAS Institute (01.2018 - 08.2018)
-
-:computer: Consultor em Pré Vendas - SAS Institute (04.2017 - 01.2018)
-
-:video_game: Data Scientist - Tapps Games (11.2016 - 04.2017)
 
 ### Formação Acadêmica
 - **Especialização em Investigação Digital** - *WB Educacional* - Em andamento
