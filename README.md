@@ -27,7 +27,7 @@ ASN.Rocks              :active,, 2020-06-01,2024-12-31
 
 section Voluntário
 Faculdade Pitagoras Cid academica :active,, 2015-09-01,2019-01-31
-Faculdade Pitagoras Raja  :active,, 2016-03-01,2018-04-31
+Faculdade Pitagoras Raja   :active,, 2016-03-01,2018-04-31
 Atendimento clinico    :active,, 2017-06-01,2024-12-31
 ```
 
