@@ -21,7 +21,7 @@ Gamers Club           :active,, 2021-03-01,2023-05-01
 idwall                :active,, 2023-09-01,2023-12-31
 
 section Acadêmico
-Téo Me Why             :active,, 2019-08-01,2024-12-31
+CNI Escola Profissionalizante            :active,, 2019-08-01,2024-12-31
 Instituto Aaron Swartz :active,, 2023-02-01,2024-12-31
 ASN.Rocks              :active,, 2020-06-01,2024-12-31
 
