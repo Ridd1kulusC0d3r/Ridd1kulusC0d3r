@@ -13,17 +13,18 @@ dateFormat  YYYY-MM-DD
 title Minha carreira atualmente
 
 section Carreira
-Tapps Games           :active,, 2016-11-01,2017-04-01
-SAS Institute         :active,, 2017-04-01,2018-08-01
-Grupo Boticário       :active,, 2018-08-01,2019-11-01
-Via Varejo            :active,, 2019-11-01,2021-01-01
-Gamers Club           :active,, 2021-03-01,2023-05-01
-idwall                :active,, 2023-09-01,2023-12-31
+AONS           :active,, 2011-05-01,2012-03-01
+Almawave          :active,, 2012-03-01,2012-10-01
+Concilia Soluções       :active,, 2015-06-01,2018-09-01
+Sonda IT / OI.SA           :active,, 2019-01-01,2021-04-01
+Vitallis           :active,, 2021-04-01,2021-08-01
+Clavis Segurança da Informação                :active,, 2021-08-01,2024-12-31
 
 section Acadêmico
 CNI Escola Profissionalizante            :active,, 2011-10-01,2012-02-31
-Instituto Aaron Swartz :active,, 2023-02-01,2024-12-31
-ASN.Rocks              :active,, 2020-06-01,2024-12-31
+CECyber :active,, 2022-08-01,2024-12-31
+Kroton              :active,, 2022-09-01,2024-12-31
+Cogna Educação      :active,, 2023-04-01,2023-09-31
 
 section Voluntário
 Faculdade Pitagoras Cid academica :active,, 2015-09-01,2019-01-31
