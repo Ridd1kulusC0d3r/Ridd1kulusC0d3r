@@ -21,12 +21,14 @@ Gamers Club           :active,, 2021-03-01,2023-05-01
 idwall                :active,, 2023-09-01,2023-12-31
 
 section Acadêmico
-CNI Escola Profissionalizante            :active,, 2019-08-01,2024-12-31
+CNI Escola Profissionalizante            :active,, 2011-10-01,2012-02-31
 Instituto Aaron Swartz :active,, 2023-02-01,2024-12-31
 ASN.Rocks              :active,, 2020-06-01,2024-12-31
 
 section Voluntário
 Atendimento clinico    :active,, 2017-06-01,2024-12-31
+Faculdade Pitagoras Raja  :active,, 2016-03-01,2018-04-31
+Faculdade Pitagoras Cid academica :active,, 2015-09-01,2019-01-31
 ```
 
 ### Formação Acadêmica
