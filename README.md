@@ -48,3 +48,20 @@ Atualmente, estou buscando expandir minha atuação para a área acadêmica e ve
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
+
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
+
+section Carreira
+Tapps Games           :active,, 2016-11-01,2017-04-01
+SAS Institute         :active,, 2017-04-01,2018-08-01
+Grupo Boticário       :active,, 2018-08-01,2019-11-01
+Via Varejo            :active,, 2019-11-01,2021-01-01
+Gamers Club           :active,, 2021-03-01,2023-05-01
+idwall                :active,, 2023-09-01,2023-12-31
+
+section Professor
+Téo Me Why             :active,, 2019-08-01,2024-12-31
+Instituto Aaron Swartz :active,, 2023-02-01,2024-12-31
+ASN.Rocks              :active,, 2020-06-01,2024-12-31
