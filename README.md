@@ -17,7 +17,7 @@ AONS           :active,, 2011-05-01,2012-03-01
 Almawave          :active,, 2012-03-01,2012-10-01
 Concilia Soluções       :active,, 2015-06-01,2018-09-01
 Sonda IT / OI.SA           :active,, 2019-01-01,2021-04-01
-Vitallis           :active,, 2021-04-01,2021-08-01
+Vitallis / NDI         :active,, 2021-04-01,2021-08-10
 Clavis Segurança da Informação                :active,, 2021-08-01,2024-12-31
 
 section Acadêmico
