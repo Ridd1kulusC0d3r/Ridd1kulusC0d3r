@@ -76,7 +76,6 @@ GAMING - Associação :active,, 2018-02-01,2019-08-31
   <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=blue&hide_border=true"/>
 </div>
 ------------
-    
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=nord_dark) |
 | :-: | :-: | :-: |
 
