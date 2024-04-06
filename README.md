@@ -13,27 +13,14 @@ dateFormat  YYYY-MM-DD
 title Minha carreira atualmente
 
 section Carreira
-AONS           :active,, 2011-05-01,2012-03-01
-Almawave          :active,, 2012-03-01,2012-10-01
-Concilia Soluções       :active,, 2015-06-01,2018-09-01
-Sonda IT / OI.SA           :active,, 2019-01-01,2021-04-01
-Vitallis / NDI         :active,, 2021-04-01,2021-08-10
-Clavis Segurança da Informação                :active,, 2021-08-01,2024-12-31
+Especialista em suporte a sistemas       :active,, 2015-06-01,2018-09-01
+Analista de GMUD/Qualidade          :active,, 2019-01-01,2021-04-01
+Especialista em Cybersecurity         :active,, 2021-04-01,2021-08-10
+Coordenador se Cybersecurity                :active,, 2021-08-01,2024-12-31
 
 section Acadêmico
-CNI Escola Profissionalizante :active,, 2011-10-01,2012-02-31
-CECyber :active,, 2022-08-01,2024-12-31
-Kroton              :active,, 2022-09-01,2024-12-31
-Cogna Educação      :active,, 2023-04-01,2023-10-31
-Mente Binária :active,, 2023-05-01,2023-09-31
-Escola da Nuvem :active,, 2023-05-01,2023-12-31
-Ars Magna :active,, 2023-06-01,2025-12-31
-
-
-section Voluntário
-Faculdade Pitagoras Cid academica :active,, 2015-09-01,2019-01-31
-Atendimento clinico    :active,, 2017-06-01,2024-12-31
-GAMING - Associação :active,, 2018-02-01,2019-08-31
+Cybersecurity Mentor :active,, 2022-08-01,2024-12-31
+Professor acadêmico              :active,, 2022-09-01,2024-12-31
 ```
 <div> 
   <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
