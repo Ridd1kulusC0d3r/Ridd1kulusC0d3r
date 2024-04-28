@@ -1,4 +1,4 @@
-## Olá seja bem vindo ao meu Perfil ;) 
+## Olá seja bem vindo ao meu Perfil ;)
 <div align="center">
 <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/c9d0509c-dd61-4fd6-81ef-65cde250a318" width="550px" />
 </div>
