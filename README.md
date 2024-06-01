@@ -29,9 +29,9 @@ Professor acadêmico              :active,, 2022-09-01,2024-12-31
 </div>
 
 ### Formação Acadêmica
-- **Especialização em Investigação Digital** - *WB Educacional*
 - **Especialização em Inteligência Cibernética** - *WB Educacional* - Em andamento
 - **Comportamento Não Verbal e Análise de Credibilidade** - *ClueLab/FACSM Faculdade São Marcos* - Em andamento
+- **Especialização em Investigação Digital** - *WB Educacional*
 - **Especialização em CTI - Cyber Threat Intelligence** - *Daryus*
 - **Bacharel em Psicologia** - *Faculdade Pitagoras (FPAS)*
 - **MBA em Gestão de Projetos com Ênfase em Tecnologia** - *Faculdade Vincit (UNICIV)*
