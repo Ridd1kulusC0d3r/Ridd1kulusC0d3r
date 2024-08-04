@@ -2,8 +2,8 @@
 <div align="center">
 <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/c9d0509c-dd61-4fd6-81ef-65cde250a318" width="550px" />
 </div>
-Sou coordenador de Cybersecurity, Psicólogo especializado em ciêcia das emoções e analise forense do discurso, com especialização em Cyber Threat Intelligence e investigação digital, Mentor de Carreira em Cybersecurity. 
-Minha jornada abrange desde a liderança estratégica de Operações de Segurança, analise e indicadores de SI conectando com atuação técnica de forma tática e estratégica para com os clientes de SOC. Nas horas vagas, também gosto de escrever e compartilhar conhecimento sobre segurança e tecnologia. 
+Sou coordenador de Cybersecurity, Psicólogo com especializão em ciêcia das emoções e analise forense do discurso, tenho pós graduação em Cyber Threat Intelligence e investigação digital, as vezes sou Mentor de Carreira em Cybersecurity. 
+Minha jornada abrange desde a liderança estratégica de Operações de Segurança, analise e indicadores em SI conectando com atuação técnica de forma tática e estratégica para com os clientes de SOC. Nas horas vagas, também gosto de escrever e compartilhar conhecimento sobre segurança, tecnologia e psicologia. 
  
 ```mermaid
 
