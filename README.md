@@ -18,8 +18,8 @@ Especialista em Cybersecurity         :active,, 2021-04-01,2021-08-10
 Coordenador se Cybersecurity                :active,, 2021-08-01,2024-12-31
 
 section Acadêmico
-Cybersecurity Mentor :active,, 2022-08-01,2024-12-31
-Professor acadêmico              :active,, 2022-09-01,2024-12-31
+Cybersecurity Mentor :active,, 2022-08-01,2024-06-31
+Professor acadêmico              :active,, 2022-09-01,2024-06-31
 ```
 <div> 
   <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
