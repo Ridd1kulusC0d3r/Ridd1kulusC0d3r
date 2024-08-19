@@ -15,7 +15,9 @@ section Carreira
 Especialista em suporte a sistemas       :active,, 2015-06-01,2018-09-01
 Analista de GMUD/Qualidade          :active,, 2019-01-01,2021-04-01
 Especialista em Cybersecurity         :active,, 2021-04-01,2021-08-10
-Coordenador se Cybersecurity                :active,, 2021-08-01,2024-12-31
+SOC Analyst              :active,, 2021-08-01,2021-12-20
+TechLead Cybersecurity             :active,, 2021-12-20,2022-05-08
+Coordenador de Cybersecurity                :active,, 2022-05-08,2024-12-31
 
 section Acadêmico
 Cybersecurity Mentor :active,, 2022-08-01,2024-06-31
