@@ -12,17 +12,20 @@ dateFormat  YYYY-MM-DD
 title Minha carreira atualmente
 
 section Carreira
-Especialista em suporte a sistemas       :active,, 2015-06-01,2018-09-01
-Analista de GMUD/Qualidade          :active,, 2019-01-01,2021-04-01
-Especialista em Cybersecurity         :active,, 2021-04-01,2021-08-10
-SOC Analyst              :active,, 2021-08-01,2021-12-20
-TechLead Cybersecurity             :active,, 2021-12-20,2022-05-08
-Coordenador de Cybersecurity                :active,, 2022-05-08,2024-10-01
-Head of Cyber Research  :active,, 2024-10-01, 2026-05-08
+Especialista em suporte a sistemas       :done,    2015-06-01,2018-09-01
+Analista de GMUD/Qualidade               :done,    2019-01-01,2021-04-01
+Especialista em Cybersecurity            :done,    2021-04-01,2021-08-10
+SOC Analyst                              :done,    2021-08-01,2021-12-20
+TechLead Cybersecurity                   :done,    2021-12-20,2022-05-08
+Coordenador de Cybersecurity             :done,    2022-05-08,2024-10-01
+Head of Cyber Research                   :active,  2024-10-01, 2026-05-08
 
 section Acadêmico
-Cybersecurity Mentor :active,, 2022-08-01,2024-06-31
-Professor acadêmico              :active,, 2022-09-01,2024-06-31
+Cybersecurity Mentor                     :done,    2022-08-01,2024-06-30
+Professor acadêmico                      :done,    2022-09-01,2024-06-30
+Pesquisador em Psicologia                :active,  2016-09-01, 
+Pesquisador em Investigação Digital      :active,  2024-06-01, 
+Psicólogo Clínico                        :active,  2021-06-01, 
 ```
 <div> 
   <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
