@@ -17,7 +17,8 @@ Analista de GMUD/Qualidade          :active,, 2019-01-01,2021-04-01
 Especialista em Cybersecurity         :active,, 2021-04-01,2021-08-10
 SOC Analyst              :active,, 2021-08-01,2021-12-20
 TechLead Cybersecurity             :active,, 2021-12-20,2022-05-08
-Coordenador de Cybersecurity                :active,, 2022-05-08,2024-12-31
+Coordenador de Cybersecurity                :active,, 2022-05-08,2024-10-01
+Head of Cyber Research  :active,, 2024-10-01, 2026-05-08
 
 section Acadêmico
 Cybersecurity Mentor :active,, 2022-08-01,2024-06-31
