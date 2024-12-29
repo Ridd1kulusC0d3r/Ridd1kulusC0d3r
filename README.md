@@ -18,7 +18,7 @@ Especialista em Cybersecurity            :done,    2021-04-01,2021-08-10
 SOC Analyst                              :done,    2021-08-01,2021-12-20
 TechLead Cybersecurity                   :done,    2021-12-20,2022-05-08
 Coordenador de Cybersecurity             :done,    2022-05-08,2024-10-01
-Head of Cyber Research                   :active,  2024-10-01, 2026-05-08
+Head of Cyber Research                   :active,  2024-10-01,
 
 section Acadêmico
 Cybersecurity Mentor                     :done,    2022-08-01,2024-06-30
