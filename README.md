@@ -255,8 +255,4 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 
 ---
 
-## 🐍 Snake Game no GitHub!
-
-Veja o Snake Game interagindo com o padrão de contribuições no meu perfil:
-
 ![Snake animation](https://github.com/Ridd1kulusC0d3r/snk/blob/output/github-contribution-grid-snake.svg)
