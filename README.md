@@ -14,7 +14,7 @@ Minha trajetória profissional combina liderança estratégica em pesquisa e pre
 - **Luna** – Cinza, da "raça" Gapeta.
 - **Dobby** – Caramelo, da "raça" Demônio da Pomerânia.
 
-  | ![Luna](https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d) | ![Leônidas](https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa) | ![Dobby](https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7) |
+| ![Luna](https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d) | ![Leônidas](https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa) | ![Dobby](https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7) |
 |:----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
 | **Luna**                                                                                | **Leônidas**                                                                              | **Dobby**                                                                               |
 
