@@ -96,10 +96,12 @@ Habilidades que estou desenvolvendo neste momento:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 
 
-</div>
-
+<br>
+<div align="center">
 IDEs favoritas
-<div>
+</div>
+<br>
+  
   <!-- Notion -->
   <a href="https://www.notion.so" target="_blank">
     <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
