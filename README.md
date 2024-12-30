@@ -144,11 +144,8 @@ IDEs favoritas
 </div>
 
 ---
-<div align="center">
 
 ## **Carreira**
-</div>
-<br>
 
 ### **Profissional**
 - **Head of Cyber Research** - (desde 10/2024)
