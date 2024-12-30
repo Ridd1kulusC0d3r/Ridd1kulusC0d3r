@@ -79,26 +79,7 @@ Habilidaes que estou desenvolvendo neste momento:
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 
-  <!-- R -->
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 
-  <!-- PHP -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-
-  <!-- Go -->
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-
-  <!-- Bash -->
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-
-  <!-- PowerShell -->
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-
-  <!-- Shell Script -->
-  <img src="https://img.shields.io/badge/Shell_Script-89E051?style=for-the-badge&logo=shell&logoColor=black" alt="Shell Script">
-
-  <!-- Lua -->
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 </div>
 
 ---
