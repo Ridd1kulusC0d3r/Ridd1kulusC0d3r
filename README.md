@@ -14,7 +14,7 @@ Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança,
 |:------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
 
 
-Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
+Sinta-se à vontade para entrar em contato! 😊
 
 <div>
   <!-- Primeira lista: Contato direto -->
