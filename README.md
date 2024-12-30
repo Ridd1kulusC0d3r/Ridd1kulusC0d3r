@@ -2,16 +2,75 @@
 <div align="center">
 <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/c9d0509c-dd61-4fd6-81ef-65cde250a318" width="550px" />
 </div>
-Sou coordenador de Cybersecurity, Psicólogo com especializão em ciêcia das emoções e analise forense do discurso, tenho pós graduação em Cyber Threat Intelligence e investigação digital, as vezes sou Mentor de Carreira em Cybersecurity. 
-Minha jornada abrange desde a liderança estratégica de Operações de Segurança, analise e indicadores em SI conectando com atuação técnica de forma tática e estratégica para com os clientes de SOC. Nas horas vagas, também gosto de escrever e compartilhar conhecimento sobre segurança, tecnologia e psicologia. 
+**Sou Head de Pesquisa e Cybersecurity, além de Psicólogo com especialização em Ciência das Emoções e Análise Forense do Discurso. Possuo pós-graduação em Cyber Threat Intelligence, Investigação Digital e Inteligência Cibernética. Também atuo, de forma pontual, como Mentor de Carreira em Cybersecurity.**
+
+Minha trajetória profissional combina liderança estratégica em pesquisa e preparação organizacional contra ameaças cibernéticas, com um foco sólido na detecção e neutralização de operações de segurança. Tenho experiência em análise e indicadores de Segurança da Informação, conectando essa expertise a uma atuação técnica e tática no atendimento aos clientes de SOC, sempre alinhada aos objetivos estratégicos das organizações.
+
+Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança, tecnologia e psicologia. Participar de eventos e contribuir para a comunidade são atividades que enriquecem minha jornada pessoal e profissional.
+
+Sou também pai de pets incríveis:
+
+Leônidas – Branco, da "raça" Gapiroto.
+Luna – Cinza, da "raça" Gapeta.
+Dobby – Caramelo, da "raça" Demônio da Pomerânia.
  
 
-<div> 
-  <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/osintuai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/deivisonlourencos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
+
+<div>
+  <!-- Primeira lista: Contato direto -->
+  <!-- WhatsApp -->
+  <a href="https://wa.me/31993742973" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/Ridd1kulusC0d3r" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+
+  <!-- E-mail -->
+  <a href="mailto:deivsec@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+
+Outras redes sociais
+
+<div>
+  <!-- Segunda lista: Outras redes sociais -->
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/deivisonlourencos" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/deivisonlourencos/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Ridd1kulusC0d3r" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@deivsec" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+
+  <!-- Twitter (X) -->
+  <a href="https://x.com/psideivison" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter_(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)">
+  </a>
 </div>
 
+
+---
 ---
 ## **Carreira**
 ### **Profissional**
