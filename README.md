@@ -13,7 +13,8 @@ Minha trajetória profissional combina liderança estratégica em pesquisa e pre
 - **Leônidas** – Branco, da "raça" Gapiroto.
 - **Luna** – Cinza, da "raça" Gapeta.
 - **Dobby** – Caramelo, da "raça" Demônio da Pomerânia.
-- <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
     <img src="https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d" alt="Luna" style="width: 150px; height: auto; border-radius: 8px;">
     <p style="text-align: center;">Luna</p>
