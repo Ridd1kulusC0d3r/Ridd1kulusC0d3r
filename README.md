@@ -13,11 +13,12 @@ Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança,
 | <div align="center"><img src="https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d" alt="Luna" width="150px"><br><strong>Luna</strong><br>Cinza, da "raça" Gapeta</div> | <div align="center"><img src="https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa" alt="Leônidas" width="150px"><br><strong>Leônidas</strong><br>Branco, da "raça" Gapiroto</div> | <div align="center"><img src="https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7" alt="Dobby" width="150px"><br><strong>Dobby</strong><br>Caramelo, da "raça" Demônio da Pomerânia</div> |
 |:------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
 
-
+---
+<br>
 <div align="center">
   Sinta-se à vontade para entrar em contato! 😊
 </div>
-
+<br>
 
 <div>
   <!-- Primeira lista: Contato direto -->
@@ -37,11 +38,11 @@ Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança,
   </a>
 
 
-
+<br>
 <div align="center">
 Outras redes sociais:
 </div>
-
+<br>
 <div>
   <!-- Segunda lista: Outras redes sociais -->
   <!-- YouTube -->
