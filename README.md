@@ -137,7 +137,7 @@ IDEs favoritas
     <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
   </a>
 </div>
-
+</div>
 ---
 ## **Carreira**
 ### **Profissional**
