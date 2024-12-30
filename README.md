@@ -10,7 +10,7 @@ Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança,
 
 <div align="center">
 **Sou também pai de pets incríveis:**
-</div>
+
 | <div align="center"><img src="https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d" alt="Luna" width="150px"><br><strong>Luna</strong><br>Cinza, da "raça" Gapeta</div> | <div align="center"><img src="https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa" alt="Leônidas" width="150px"><br><strong>Leônidas</strong><br>Branco, da "raça" Gapiroto</div> | <div align="center"><img src="https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7" alt="Dobby" width="150px"><br><strong>Dobby</strong><br>Caramelo, da "raça" Demônio da Pomerânia</div> |
 |:------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
 
