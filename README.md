@@ -258,3 +258,41 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=ffffff&ring=539bf5&fire=539bf5&currStreakNum=24292e&sideNums=539bf5&currStreakLabel=539bf5&sideLabels=24292e&dates=24292e) |
 | :-: | :-: |
 
+
+---
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=solarized_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=solarized_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=solarized_light) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=solarized_light) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=fdf6e3&stroke=fdf6e3&ring=268bd2&fire=268bd2&currStreakNum=657b83&sideNums=268bd2&currStreakLabel=268bd2&sideLabels=657b83&dates=657b83) |
+| :-: | :-: |
+
+---
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=vue) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=vue) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=vue) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=vue) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=f8f9fa&stroke=f8f9fa&ring=42b883&fire=42b883&currStreakNum=35495e&sideNums=42b883&currStreakLabel=42b883&sideLabels=35495e&dates=35495e) |
+| :-: | :-: |
+
+---
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=default) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=default) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=ffffff&ring=0366d6&fire=0366d6&currStreakNum=24292e&sideNums=0366d6&currStreakLabel=0366d6&sideLabels=24292e&dates=24292e) |
+| :-: | :-: |
+
+---
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=github) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=ffffff&ring=0366d6&fire=0366d6&currStreakNum=24292e&sideNums=0366d6&currStreakLabel=0366d6&sideLabels=24292e&dates=24292e) |
+| :-: | :-: |
+
+---
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=calm) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=calm) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=calm) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=calm) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=edf4f6&stroke=edf4f6&ring=4da8da&fire=4da8da&currStreakNum=35495e&sideNums=4da8da&currStreakLabel=4da8da&sideLabels=35495e&dates=35495e) |
+| :-: | :-: |
+
+---
+
