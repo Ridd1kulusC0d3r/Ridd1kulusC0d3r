@@ -82,6 +82,39 @@ Habilidades que estou desenvolvendo neste momento:
 
 </div>
 
+IDEs favoritas
+<div>
+  <!-- Notion -->
+  <a href="https://www.notion.so" target="_blank">
+    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  </a>
+
+  <!-- Notepad++ -->
+  <a href="https://notepad-plus-plus.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++">
+  </a>
+
+  <!-- Visual Studio -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
+  </a>
+
+  <!-- BlackBox -->
+  <a href="https://www.useblackbox.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-BlackBox-000000?style=for-the-badge&logo=blackbox&logoColor=white" alt="BlackBox">
+  </a>
+
+  <!-- ChatGPT -->
+  <a href="https://openai.com/chatgpt" target="_blank">
+    <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  </a>
+
+  <!-- PyCharm -->
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  </a>
+</div>
+
 ---
 ## **Carreira**
 ### **Profissional**
