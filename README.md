@@ -228,6 +228,8 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 - **Resposta a Incidentes** - *AFD - Academia Forense Digital* - 40 horas (Ago/2023)
 - **Masterclass Osint for Cyberwarfare** - *Lobo Inteligência* - 10 horas (Ago/2023)
 
+---
+
 <div align="center">
 <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/3296237a-1776-42c3-9507-69d787287c73" width="250px" />
 </div>
@@ -252,3 +254,10 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 
 
 ---
+
+## 🐍 Snake Game no GitHub!
+
+Veja o Snake Game interagindo com o padrão de contribuições no meu perfil:
+
+![Snake animation](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
