@@ -36,7 +36,11 @@ Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança,
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 
-Outras redes sociais
+
+
+<div align="center">
+Outras redes sociais:
+</div>
 
 <div>
   <!-- Segunda lista: Outras redes sociais -->
@@ -71,7 +75,9 @@ Outras redes sociais
   </a>
 </div>
 
+<div align="center">
 Habilidades que estou desenvolvendo neste momento:
+</div>
 <div>
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
