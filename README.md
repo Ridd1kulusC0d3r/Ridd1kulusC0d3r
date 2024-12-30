@@ -68,7 +68,7 @@ Outras redes sociais
   </a>
 </div>
 
-Habilidaes que estou desenvolvendo neste momento:
+Habilidades que estou desenvolvendo neste momento:
 <div>
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
