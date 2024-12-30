@@ -260,6 +260,7 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 
 
 ---
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=solarized_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=solarized_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=solarized_light) |
 | :-: | :-: | :-: |
 
@@ -267,6 +268,7 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 | :-: | :-: |
 
 ---
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=vue) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=vue) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=vue) |
 | :-: | :-: | :-: |
 
@@ -274,6 +276,7 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 | :-: | :-: |
 
 ---
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=default) |
 | :-: | :-: | :-: |
 
@@ -281,6 +284,7 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 | :-: | :-: |
 
 ---
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=github) |
 | :-: | :-: | :-: |
 
@@ -288,10 +292,52 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 | :-: | :-: |
 
 ---
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=calm) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=calm) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=calm) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=calm) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=edf4f6&stroke=edf4f6&ring=4da8da&fire=4da8da&currStreakNum=35495e&sideNums=4da8da&currStreakLabel=4da8da&sideLabels=35495e&dates=35495e) |
+| :-: | :-: |
+
+---
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=github_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=github_light) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github_light) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&background=fafafa&stroke=fafafa&ring=0366d6&fire=0366d6&currStreakNum=24292e&sideNums=0366d6&currStreakLabel=0366d6&sideLabels=24292e&dates=24292e) |
+| :-: | :-: |
+
+---
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=flat) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=flat) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=flat) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=flat) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&background=f4f4f4&stroke=f4f4f4&ring=8a8a8a&fire=8a8a8a&currStreakNum=303030&sideNums=8a8a8a&currStreakLabel=8a8a8a&sideLabels=303030&dates=303030) |
+| :-: | :-: |
+
+---
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=minimal) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=minimal) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=minimal) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=minimal) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&background=ffffff&stroke=ffffff&ring=007acc&fire=007acc&currStreakNum=24292e&sideNums=007acc&currStreakLabel=007acc&sideLabels=24292e&dates=24292e) |
+| :-: | :-: |
+
+
+---
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=dracula_pro_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=dracula_pro_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=dracula_pro_light) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=dracula_pro_light) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&background=fdf6e3&stroke=fdf6e3&ring=ff79c6&fire=ff79c6&currStreakNum=bd93f9&sideNums=ff79c6&currStreakLabel=ff79c6&sideLabels=bd93f9&dates=6272a4) |
+| :-: | :-: |
+
+---
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=tokyonight_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=tokyonight_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=tokyonight_light) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=tokyonight_light) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&background=e1e8f0&stroke=e1e8f0&ring=41a1f6&fire=41a1f6&currStreakNum=3b4252&sideNums=41a1f6&currStreakLabel=41a1f6&sideLabels=3b4252&dates=3b4252) |
 | :-: | :-: |
 
 ---
