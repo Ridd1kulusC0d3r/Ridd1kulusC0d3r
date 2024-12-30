@@ -114,6 +114,9 @@ IDEs favoritas
     <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
   </a>
 </div>
+<a href="https://obsidian.md/" target="_blank">
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
+</a>
 
 ---
 ## **Carreira**
