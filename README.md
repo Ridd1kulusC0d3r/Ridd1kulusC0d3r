@@ -46,7 +46,7 @@ Coordenador de Cybersecurity             :done,    2022-05-08,2024-10-01
 Head of Cyber Research                   :active,  2024-10-01,2026-01-01
 
 section Acadêmico
-Cybersecurity Mentor                     :done,    2022-08-01,2026-06-30
+Cybersecurity Mentor                     :done,    2022-08-01,2025-09-30
 Professor acadêmico                      :done,    2022-09-01,2024-06-30
 Pesquisador em Psicologia                :active,  2016-09-01,2026-01-01
 Pesquisador em Investigação Digital      :active,  2024-06-01,2026-01-01
