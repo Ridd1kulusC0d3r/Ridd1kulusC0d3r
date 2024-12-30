@@ -144,7 +144,12 @@ IDEs favoritas
 </div>
 
 ---
+<div align="center">
+
 ## **Carreira**
+</div>
+<br>
+
 ### **Profissional**
 - **Head of Cyber Research** - (desde 10/2024)
 - **Coordenador de Cybersecurity** - (05/2022 a 10/2024)
