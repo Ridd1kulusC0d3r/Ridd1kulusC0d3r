@@ -23,7 +23,7 @@ Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança,
 </div>
 <br>
 
-<div>
+<div align="center">
   <!-- Primeira lista: Contato direto -->
   <!-- WhatsApp -->
   <a href="https://wa.me/31993742973" target="_blank">
