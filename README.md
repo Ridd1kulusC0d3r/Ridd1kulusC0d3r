@@ -2,18 +2,18 @@
 <div align="center">
 <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/c9d0509c-dd61-4fd6-81ef-65cde250a318" width="550px" />
 </div>
-*Sou Head de Pesquisa e Cybersecurity, além de Psicólogo com especialização em Ciência das Emoções e Análise Forense do Discurso. Possuo pós-graduação em Cyber Threat Intelligence, Investigação Digital e Inteligência Cibernética. Também atuo, de forma pontual, como Mentor de Carreira em Cybersecurity.*
+
+**Sou Head de Pesquisa e Cybersecurity, além de Psicólogo com especialização em Ciência das Emoções e Análise Forense do Discurso. Possuo pós-graduação em Cyber Threat Intelligence, Investigação Digital e Inteligência Cibernética. Também atuo, de forma pontual, como Mentor de Carreira em Cybersecurity.**
 
 Minha trajetória profissional combina liderança estratégica em pesquisa e preparação organizacional contra ameaças cibernéticas, com um foco sólido na detecção e neutralização de operações de segurança. Tenho experiência em análise e indicadores de Segurança da Informação, conectando essa expertise a uma atuação técnica e tática no atendimento aos clientes de SOC, sempre alinhada aos objetivos estratégicos das organizações.
 
-Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança, tecnologia e psicologia. Participar de eventos e contribuir para a comunidade são atividades que enriquecem minha jornada pessoal e profissional.
+**Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança, tecnologia e psicologia. Participar de eventos e contribuir para a comunidade são atividades que enriquecem minha jornada pessoal e profissional.**
 
-Sou também pai de pets incríveis:
+**Sou também pai de pets incríveis:**
+- **Leônidas** – Branco, da "raça" Gapiroto.
+- **Luna** – Cinza, da "raça" Gapeta.
+- **Dobby** – Caramelo, da "raça" Demônio da Pomerânia.
 
-Leônidas – Branco, da "raça" Gapiroto.
-Luna – Cinza, da "raça" Gapeta.
-Dobby – Caramelo, da "raça" Demônio da Pomerânia.
- 
 
 Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
 
