@@ -1,7 +1,4 @@
 ## Olá seja bem vindo ao meu Perfil ;)
-<div align="center">
-<img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/c9d0509c-dd61-4fd6-81ef-65cde250a318" width="550px" />
-</div>
 
 **Sou Head de Pesquisa e Cybersecurity, além de Psicólogo com especialização em Ciência das Emoções e Análise Forense do Discurso. Possuo pós-graduação em Cyber Threat Intelligence, Investigação Digital e Inteligência Cibernética. Também atuo, de forma pontual, como Mentor de Carreira em Cybersecurity.**
 
@@ -9,64 +6,7 @@ Minha trajetória profissional combina liderança estratégica em pesquisa e pre
 
 **Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança, tecnologia e psicologia. Participar de eventos e contribuir para a comunidade são atividades que enriquecem minha jornada pessoal e profissional.**
 
-**Sou também pai de pets incríveis:**
-- **Leônidas** – Branco, da "raça" Gapiroto.
-- **Luna** – Cinza, da "raça" Gapeta.
-- **Dobby** – Caramelo, da "raça" Demônio da Pomerânia.
 
-| ![Luna](https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d) | ![Leônidas](https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa) | ![Dobby](https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7) |
-|:----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
-| **Luna**                                                                                | **Leônidas**                                                                              | **Dobby**                                                                               |
-
-
-**Sou também pai de pets incríveis:**
-- **Leônidas** – Branco, da "raça" Gapiroto.
-- **Luna** – Cinza, da "raça" Gapeta.
-- **Dobby** – Caramelo, da "raça" Demônio da Pomerânia.
-
-| <img src="https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d" alt="Luna" width="150px"> | <img src="https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa" alt="Leônidas" width="150px"> | <img src="https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7" alt="Dobby" width="150px"> |
-|:------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| **Luna**                                                                                                          | **Leônidas**                                                                                                         | **Dobby**                                                                                                        |
-
-**Sou também pai de pets incríveis:**
-- **Leônidas** – Branco, da "raça" Gapiroto.
-- **Luna** – Cinza, da "raça" Gapeta.
-- **Dobby** – Caramelo, da "raça" Demônio da Pomerânia.
-
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <img src="https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa" alt="Leônidas" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
-    <p style="text-align: center;"><strong>Leônidas</strong></p>
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d" alt="Luna" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
-    <p style="text-align: center;"><strong>Luna</strong></p>
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7" alt="Dobby" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
-    <p style="text-align: center;"><strong>Dobby</strong></p>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <img src="https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d" alt="Luna" style="width: 150px; height: auto; border-radius: 8px;">
-    <p style="text-align: center;">Luna</p>
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa" alt="Leônidas" style="width: 150px; height: auto; border-radius: 8px;">
-    <p style="text-align: center;">Leônidas</p>
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7" alt="Dobby" style="width: 150px; height: auto; border-radius: 8px;">
-    <p style="text-align: center;">Dobby</p>
-  </div>
-</div>
-
-
-Luna: ![image](https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d)
-Leônidas: ![image](https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa)
-Dobby: ![image](https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7)
 
 **Sou também pai de pets incríveis:**
 
