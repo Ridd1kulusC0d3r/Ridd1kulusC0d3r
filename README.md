@@ -3,7 +3,6 @@
 ## Olá seja bem vindo ao meu Perfil ;)
 
 </div>
-
 Sou Head de Pesquisa e Cybersecurity, além de Psicólogo com especialização em Ciência das Emoções e Análise Forense do Discurso. Possuo pós-graduação em Cyber Threat Intelligence, Investigação Digital e Inteligência Cibernética. Também atuo, de forma pontual, como Mentor de Carreira em Cybersecurity.
 
 Minha trajetória profissional combina liderança estratégica em pesquisa e preparação organizacional contra ameaças cibernéticas, com um foco sólido na detecção e neutralização de operações de segurança. Tenho experiência em análise e indicadores de Segurança da Informação, conectando essa expertise a uma atuação técnica e tática no atendimento aos clientes de SOC, sempre alinhada aos objetivos estratégicos das organizações.
