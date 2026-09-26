@@ -7,11 +7,28 @@
 Head de Pesquisa & Inovação na Clavis Segurança da Informação  
 Mestrando em Engenharia de Software na CESAR School · Psicólogo
 
-<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" height="24" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square" height="24" alt="LinkedIn" /></a>
 
-[Projetos](#projetos) · [Sobre](#sobre) · [Arsenal](#arsenal) · [Formação](#formação-acadêmica) · [Pesquisas](#pesquisas-e-estudos) · [Carreira](#carreira) · [Contato](#contato)
+[Sobre](#sobre) · [Projetos](#projetos) · [Arsenal](#arsenal) · [Formação](#formação-acadêmica) · [Pesquisas](#pesquisas-e-estudos) · [Carreira](#carreira) · [Contato](#contato)
 
 </div>
+
+---
+
+## Sobre
+
+Sou pesquisador sênior em Cybersecurity, com foco em **Threat Intelligence, OSINT e engenharia de detecção**. Como Head de Pesquisa & Inovação na Clavis Segurança da Informação, lidero pesquisa aplicada para apoiar a preparação das organizações contra ameaças cibernéticas.
+
+Conecto pesquisa à operação: transformo dados de fontes abertas e indicadores de segurança em inteligência para orientar a detecção, a resposta e as decisões do SOC. Desenvolvo frameworks e ferramentas de OSINT e modelagem de ameaças, com foco em soluções simples, auditáveis e reproduzíveis, alinhadas ao contexto de cada organização.
+
+<details>
+<summary>Mais sobre minha trajetória</summary>
+
+Sou pós-graduado em Cyber Threat Intelligence e Investigação Digital e curso o **Mestrado Profissional em Engenharia de Software na CESAR School**, com pesquisa voltada à detecção. Compartilho conhecimento em palestras e iniciativas como H2HC, BSides, Campus Party e Osintomático, além de atuar pontualmente com mentoria de carreira em Cybersecurity.
+
+Minha formação em Psicologia, com especialização em Ciência das Emoções e Análise Forense do Discurso, sustenta minha abordagem da **“Camada 8”**: o fator humano na segurança. Investigo comportamento de adversários, engenharia social e narrativas, com atenção ao contexto, às evidências e aos limites de interpretação.
+
+</details>
 
 ---
 
@@ -45,32 +62,15 @@ Apresentações e materiais para compartilhar conhecimento com a comunidade.
 
 ---
 
-## Sobre
-
-Sou pesquisador sênior em Cybersecurity, com foco em **Threat Intelligence, OSINT e engenharia de detecção**. Como Head de Pesquisa & Inovação na Clavis Segurança da Informação, lidero pesquisa aplicada para apoiar a preparação das organizações contra ameaças cibernéticas.
-
-Conecto pesquisa à operação: transformo dados de fontes abertas e indicadores de segurança em inteligência para orientar a detecção, a resposta e as decisões do SOC. Desenvolvo frameworks e ferramentas de OSINT e modelagem de ameaças, com foco em soluções simples, auditáveis e reproduzíveis, alinhadas ao contexto de cada organização.
-
-<details>
-<summary>Mais sobre minha trajetória</summary>
-
-Sou pós-graduado em Cyber Threat Intelligence e Investigação Digital e curso o **Mestrado Profissional em Engenharia de Software na CESAR School**, com pesquisa voltada à detecção. Compartilho conhecimento em palestras e iniciativas como H2HC, BSides, Campus Party e Osintomático, além de atuar pontualmente com mentoria de carreira em Cybersecurity.
-
-Minha formação em Psicologia, com especialização em Ciência das Emoções e Análise Forense do Discurso, sustenta minha abordagem da **“Camada 8”**: o fator humano na segurança. Investigo comportamento de adversários, engenharia social e narrativas, com atenção ao contexto, às evidências e aos limites de interpretação.
-
-</details>
-
----
-
 ## Arsenal
 
 | Área | Prática e ferramentas |
 |---|---|
-| **🔎 Inteligência** | Threat Intelligence · OSINT · SOCMINT · Modelagem de ameaças |
-| **🛡️ Detecção** | Engenharia de detecção · Análise de indicadores · Apoio à operação do SOC |
+| **⌕ Inteligência** | Threat Intelligence · OSINT · SOCMINT · Modelagem de ameaças |
+| **◇ Detecção** | Engenharia de detecção · Análise de indicadores · Apoio à operação do SOC |
 | **⌘ Linguagens** | Python · Go · JavaScript — estudos e desenvolvimento |
 | **◈ IA aplicada** | Pesquisa e enriquecimento de dados, com revisão humana e rastreabilidade |
-| **▤ Ambiente de trabalho** | [VS Code](https://code.visualstudio.com/) · [Notepad++](https://notepad-plus-plus.org/) · [Notion](https://www.notion.so/) · [Obsidian](https://obsidian.md/) |
+| **▤ Ambiente de trabalho** | <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square" height="24" alt="VS Code" /></a> <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad%2B%2B-000000?style=flat-square&logo=notepadplusplus&logoColor=white" height="24" alt="Notepad++" /></a> <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="24" alt="Notion" /></a> <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" height="24" alt="Obsidian" /></a> |
 | **↗ Projetos** | [OSINT](https://github.com/Ridd1kulusC0d3r/OSINT) · [Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling) · [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI) |
 
 ---
@@ -239,21 +239,21 @@ gantt
 
 ## Idiomas
 
-🇧🇷 **Português** — Nativo · 🇺🇸 **Inglês** — Básico/intermediário  
-🇪🇸 **Espanhol** — Intermediário/Avançado · 🇷🇺 **Russo** — Básico
+**Português** — Nativo · **Inglês** — Básico/intermediário  
+**Espanhol** — Intermediário/Avançado · **Russo** — Básico
 
 ---
 
 ## Contato
 
-<a href="https://wa.me/31993742973"><img src="https://img.shields.io/badge/WhatsApp-202839?style=flat-square&logo=whatsapp&logoColor=white" height="24" alt="WhatsApp" /></a>
-<a href="https://t.me/Ridd1kulusC0d3r"><img src="https://img.shields.io/badge/Telegram-202839?style=flat-square&logo=telegram&logoColor=white" height="24" alt="Telegram" /></a>
-<a href="mailto:deivsec@gmail.com"><img src="https://img.shields.io/badge/E--mail-202839?style=flat-square&logo=gmail&logoColor=white" height="24" alt="E-mail" /></a>
+<a href="https://wa.me/31993742973"><img src="https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=white" height="24" alt="WhatsApp" /></a>
+<a href="https://t.me/Ridd1kulusC0d3r"><img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white" height="24" alt="Telegram" /></a>
+<a href="mailto:deivsec@gmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=flat-square&logo=gmail&logoColor=white" height="24" alt="E-mail" /></a>
 
 **Redes sociais**
 
-<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" height="24" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/deivisonlourencos/"><img src="https://img.shields.io/badge/Instagram-202839?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square" height="24" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/deivisonlourencos/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
 
 ---
 
@@ -269,7 +269,7 @@ gantt
 </p>
 
 <details>
-<summary><strong>📊 Ver histórico e gráficos de atividade</strong></summary>
+<summary><strong>▥ Ver histórico e gráficos de atividade</strong></summary>
 
 <br />
 
