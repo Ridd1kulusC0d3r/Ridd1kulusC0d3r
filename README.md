@@ -216,16 +216,28 @@ gantt
   <img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="480" alt="DEIVOSINT" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=github" width="32%" alt="Estatísticas do GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github" width="32%" alt="Linguagens por repositório" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=github" width="32%" alt="Linguagens por commit" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=github" width="300" alt="Estatísticas gerais do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github" width="300" alt="Linguagens por repositório" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github" width="100%" alt="Histórico de contribuições no GitHub" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=ffffff&ring=539bf5&fire=539bf5&currStreakNum=24292e&sideNums=539bf5&currStreakLabel=539bf5&sideLabels=24292e&dates=24292e" width="60%" alt="Sequência de contribuições no GitHub" />
-</div>
+<details>
+<summary><strong>📊 Ver histórico e gráficos de atividade</strong></summary>
+
+<br />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github" width="600" alt="Histórico de contribuições no GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=ffffff&ring=539bf5&fire=539bf5&currStreakNum=24292e&sideNums=539bf5&currStreakLabel=539bf5&sideLabels=24292e&dates=24292e" width="450" alt="Sequência de contribuições no GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=github" width="300" alt="Linguagens por commit" />
+</p>
 
 <img src="https://raw.githubusercontent.com/Ridd1kulusC0d3r/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Animação das contribuições" />
+
+</details>
