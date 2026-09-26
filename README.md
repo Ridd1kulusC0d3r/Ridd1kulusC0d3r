@@ -1,259 +1,130 @@
-<div align="center">
+# Deivison Lourenço
 
-## Olá seja bem vindo ao meu Perfil ;)
+**Cyber Threat Intelligence · OSINT & SOCMINT · Engenharia de Detecção**
 
-</div>
-Sou Head de Pesquisa e Cybersecurity, além de Psicólogo com especialização em Ciência das Emoções e Análise Forense do Discurso. Possuo pós-graduação em Cyber Threat Intelligence, Investigação Digital e Inteligência Cibernética. Também atuo, de forma pontual, como Mentor de Carreira em Cybersecurity.
+Head de Pesquisa & Inovação na Clavis Segurança da Informação · Mestrando em Engenharia de Software na CESAR School · Psicólogo
 
-Minha trajetória profissional combina liderança estratégica em pesquisa e preparação organizacional contra ameaças cibernéticas, com um foco sólido na detecção e neutralização de operações de segurança. Tenho experiência em análise e indicadores de Segurança da Informação, conectando essa expertise a uma atuação técnica e tática no atendimento aos clientes de SOC, sempre alinhada aos objetivos estratégicos das organizações.
+## Sobre
 
-Além do trabalho, tenho paixão por compartilhar conhecimento sobre segurança, tecnologia e psicologia. Participar de eventos e contribuir para a comunidade são atividades que enriquecem minha jornada pessoal e profissional.
+Sou pesquisador sênior em Cybersecurity, com foco em **Threat Intelligence, OSINT e engenharia de detecção**. Como Head de Pesquisa & Inovação na Clavis Segurança da Informação, lidero pesquisa aplicada para apoiar a preparação das organizações contra ameaças cibernéticas.
 
+Conecto pesquisa à operação: transformo dados de fontes abertas e indicadores de segurança em inteligência para orientar a detecção, a resposta e as decisões do SOC. Desenvolvo frameworks e ferramentas de OSINT e modelagem de ameaças, com foco em soluções simples, auditáveis e reproduzíveis, alinhadas ao contexto de cada organização.
 
+Sou pós-graduado em Cyber Threat Intelligence e Investigação Digital e curso o **Mestrado Profissional em Engenharia de Software na CESAR School**, com pesquisa voltada à detecção. Compartilho conhecimento em palestras e iniciativas como H2HC, BSides, Campus Party e Osintomático, além de atuar pontualmente com mentoria de carreira em Cybersecurity.
 
-<div align="center">
-  
-**Sou também pai de pets incríveis:**
-</div>
+Minha formação em Psicologia, com especialização em Ciência das Emoções e Análise Forense do Discurso, sustenta minha abordagem da **“Camada 8”**: o fator humano na segurança. Investigo comportamento de adversários, engenharia social e narrativas, com atenção ao contexto, às evidências e aos limites de interpretação.
 
-| <div align="center"><img src="https://github.com/user-attachments/assets/fd48ce29-3559-4082-9424-bdd947b2353d" alt="Luna" width="150px"><br><strong>Luna</strong><br>Cinza, da "raça" Gapeta</div> | <div align="center"><img src="https://github.com/user-attachments/assets/68d2b6eb-78c3-486f-8e05-e1234568c9fa" alt="Leônidas" width="150px"><br><strong>Leônidas</strong><br>Branco, da "raça" Gapiroto</div> | <div align="center"><img src="https://github.com/user-attachments/assets/37e8f030-b7a4-495b-b7c7-1b11cd1c47c7" alt="Dobby" width="150px"><br><strong>Dobby</strong><br>Caramelo, da "raça" Demônio da Pomerânia</div> |
-|:------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+## Contato
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/31993742973)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Ridd1kulusC0d3r)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deivsec@gmail.com)
 
+**Redes sociais:** [LinkedIn](https://www.linkedin.com/in/deivisonlourencos/) · [Instagram](https://www.instagram.com/deivisonlourencos)
 
----
-<br>
-<div align="center">
-  Sinta-se à vontade para entrar em contato! 😊
-</div>
-<br>
+## Tecnologias e aprendizado
 
-<div align="center">
-  <!-- Primeira lista: Contato direto -->
-  <!-- WhatsApp -->
-  <a href="https://wa.me/31993742973" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![IA aplicada](https://img.shields.io/badge/IA_aplicada-Intelig%C3%AAncia_e_Investiga%C3%A7%C3%A3o-202839?style=flat-square)
 
-  <!-- Telegram -->
-  <a href="https://t.me/Ridd1kulusC0d3r" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+Estudos e desenvolvimento em **Python, Go e JavaScript**, com interesse em **IA aplicada à pesquisa, ao enriquecimento de dados e ao apoio à análise de inteligência**, mantendo revisão humana e rastreabilidade das fontes.
 
-  <!-- E-mail -->
-  <a href="mailto:deivsec@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
+### Ambiente de trabalho e organização
 
+[Notion](https://www.notion.so/) · [Notepad++](https://notepad-plus-plus.org/) · [Obsidian](https://obsidian.md/) · [Visual Studio Code](https://code.visualstudio.com/)
 
-<br>
-<div align="center">
-Outras redes sociais:
-</div>
-<br>
-<div>
-  <!-- Segunda lista: Outras redes sociais -->
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
+## Carreira
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/deivisonlourencos" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+### Profissional
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/deivisonlourencos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+| Atuação | Período |
+|---|---|
+| **Head of Cyber Research & Threat Detection Engineering** | Desde 10/2024 |
+| **Coordenador de Cybersecurity** | 05/2022–10/2024 |
+| **TechLead Cybersecurity** | 12/2021–05/2022 |
+| **SOC Analyst** | 08/2021–12/2021 |
+| **Especialista em Cybersecurity** | 04/2021–08/2021 |
+| **Analista de GMUD/Qualidade** | 01/2019–04/2021 |
+| **Especialista em suporte a sistemas** | 06/2015–09/2018 |
 
-  <!-- GitHub -->
-  <a href="https://github.com/Ridd1kulusC0d3r" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+### Acadêmico
 
-  <!-- Medium -->
-  <a href="https://medium.com/@deivsec" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
+| Atuação | Período |
+|---|---|
+| **Pesquisador em Investigação Digital** | Desde 06/2024 |
+| **Pesquisador em OSINT e SOCMINT** | Desde 01/2022 |
+| **Pesquisador em Psicologia** | Desde 09/2016 |
+| **Psicólogo Clínico** | Desde 06/2021 |
+| **Professor acadêmico** | 09/2022–06/2024 |
+| **Cybersecurity Mentor** | 08/2022–06/2026 |
 
-  <!-- Twitter (X) -->
-  <a href="https://x.com/psideivison" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter_(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)">
-  </a>
-</div>
+## Formação acadêmica
 
-<br>
-<div align="center">
-Habilidades que estou desenvolvendo neste momento:
-</div>
-<br>
+### Cursando
 
-<div>
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+- **Mestrado Profissional em Engenharia de Software (MPES)** — CESAR School
+- **Pós-Graduação em Inteligência Cibernética** — WB Educacional
+- **Pós-Graduação em Inteligência e Enfrentamento ao Crime Organizado** — WB Educacional
+- **Pós-Graduação em Inteligência e Investigação em Fontes Abertas (OSINT)** — WB Educacional
+- **Pós-Graduação em Investigação de Crimes Cibernéticos** — WB Educacional
+- **Pós-Graduação em Análise de Inteligência Avançada** — WB Educacional
 
-  <!-- AI -->
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
+### Concluídas
 
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+- **Especialização em Investigação Digital** — WB Educacional
+- **Especialização em Cyber Threat Intelligence (CTI)** — Daryus
+- **Comportamento Não Verbal e Análise de Credibilidade** — ClueLab/FACSM Faculdade São Marcos
+- **Bacharelado em Psicologia** — Faculdade Pitágoras (FPAS)
+- **MBA em Gestão de Projetos com Ênfase em Tecnologia** — Faculdade Vincit (UNICIV)
+- **Graduação em Tecnologia em Redes de Computadores** — Faculdade Pitágoras (FPAS)
+- **Técnico em Informática** — Faculdade Pitágoras (FPAS)
 
+<details>
+<summary>Formações trancadas</summary>
 
-<br>
-<div align="center">
-IDEs favoritas
-</div>
-<br>
-  
-  <!-- Notion -->
-  <a href="https://www.notion.so" target="_blank">
-    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  </a>
+- **Psicologia Fenomenológica-Existencial** — Faveni (2021)
+- **Criminal Profiling** — Blue Ead (2022)
+- **Psicanálise e Clínica Contemporânea: Sujeito, Sofrimento e Intervenções** — IPOG (2023)
 
-  <!-- Notepad++ -->
-  <a href="https://notepad-plus-plus.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++">
-  </a>
+</details>
 
-  <!-- Visual Studio -->
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
-  </a>
+## Pesquisas e estudos
 
-  <!-- BlackBox -->
-  <a href="https://www.useblackbox.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-BlackBox-000000?style=for-the-badge&logo=blackbox&logoColor=white" alt="BlackBox">
-  </a>
+| Ano | Tema |
+|---|---|
+| **2026** | **T.O.C.A.I.A.** — framework de inteligência OSINT comportamental |
+| **2025** | Mapeamento de padrões comportamentais em redes sociais — SOCMINT |
+| **2024** | Análise de perfilamento indireto da personalidade |
+| **2023** | Threat Intelligence e arquitetura de modelagem de ameaças |
+| **2022** | Burnout e estresse: impactos psicológicos e físicos no indivíduo |
+| **2021** | Ciência das Emoções |
+| **2018–2021** | Ansiedade e a impossibilidade de ação na psicanálise: uma análise da neurose obsessiva |
+| **2017** | Nomofobia |
 
-  <!-- ChatGPT -->
-  <a href="https://openai.com/chatgpt" target="_blank">
-    <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-  </a>
+## Desenvolvimento profissional
 
-  <!-- PyCharm -->
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  </a>
-</div>
-<div align="center">
-  <a href="https://obsidian.md/" target="_blank">
-    <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
-  </a>
-</div>
-</div>
+### Certificações em andamento
 
----
+- **T|IE** — Threat Intelligence Essentials
+- **C|TIA** — Certified Threat Intelligence Analyst
+- **E|CIH** — EC-Council Certified Incident Handler
+- **PORP OSINT**
 
-## **Carreira**
+<details>
+<summary>Cursos em andamento e histórico de cursos</summary>
 
-### **Profissional**
-- **Head of Cyber Research** - (desde 10/2024)
-- **Coordenador de Cybersecurity** - (05/2022 a 10/2024)
-- **TechLead Cybersecurity** - (12/2021 a 05/2022)
-- **SOC Analyst** - (08/2021 a 12/2021)
-- **Especialista em Cybersecurity** - (04/2021 a 08/2021)
-- **Analista de GMUD/Qualidade** - (01/2019 a 04/2021)
-- **Especialista em suporte a sistemas** - (06/2015 a 09/2018)
+### Em andamento
 
-### **Acadêmico**
-- **Pesquisador em Investigação Digital** - (desde 06/2024)
-- **Pesquisador em Psicologia** - (desde 09/2016)
-- **Psicólogo Clínico** - (desde 06/2021)
-- **Professor acadêmico** - (09/2022 a 06/2024)
-- **Cybersecurity Mentor** - (08/2022 a 06/2026)
+- **Inteligência e Investigação em Fontes Abertas — OSINT** — WB / WebEducacional · 10ª edição · 30 horas
+- **Análise Forense de Malware** — AFD / Academia Forense Digital · 40 horas
+- **Threat Intelligence** — AFD / Academia Forense Digital · 40 horas
+- **Investigação de Ataques Ransomware** — AFD / Academia Forense Digital · 10 horas
 
-```mermaid
+### Histórico informado
 
-gantt
-dateFormat  YYYY-MM-DD
-title Minha carreira atualmente
+- **Resposta a Incidentes** — AFD / Academia Forense Digital · 40 horas · 08/2023
+- **Masterclass OSINT for Cyberwarfare** — Lobo Inteligência · 10 horas · 08/2023
 
-section Carreira
-Especialista em suporte a sistemas       :done,    2015-06-01,2018-09-01
-Analista de GMUD/Qualidade               :done,    2019-01-01,2021-04-01
-Especialista em Cybersecurity            :done,    2021-04-01,2021-08-10
-SOC Analyst                              :done,    2021-08-01,2021-12-20
-TechLead Cybersecurity                   :done,    2021-12-20,2022-05-08
-Coordenador de Cybersecurity             :done,    2022-05-08,2024-10-01
-Head of Cyber Research                   :active,  2024-10-01,2027-01-01
-
-section Acadêmico
-Cybersecurity Mentor                     :done,    2022-08-01,2025-09-30
-Professor acadêmico                      :done,    2022-09-01,2024-06-30
-Pesquisador em Psicologia                :active,  2016-09-01,2026-01-01
-Pesquisador em Investigação Digital      :active,  2024-06-01,2027-01-01
-Psicólogo Clínico                        :active,  2021-06-01,2027-01-01
-```
-
-## **Formação Acadêmica**
-### **Cursando**
-- **Especialização em Inteligência Cibernética** - WB Educacional
-- **Comportamento Não Verbal e Análise de Credibilidade** - ClueLab/FACSM Faculdade São Marcos
-
-### **Concluídas**
-- **Especialização em Investigação Digital** - WB Educacional
-- **Especialização em CTI - Cyber Threat Intelligence** - Daryus
-- **Bacharel em Psicologia** - Faculdade Pitágoras (FPAS)
-- **MBA em Gestão de Projetos com Ênfase em Tecnologia** - Faculdade Vincit (UNICIV)
-- **Graduação em Tecnologia em Redes de Computadores** - Faculdade Pitágoras (FPAS)
-- **Técnico em Informática** - Faculdade Pitágoras (FPAS)
-
-### **Trancadas**
-- **Psicologia Fenomenológica-Existencial** - (2021) - Faveni 
-- **Criminal Profiling** - (2022) - Blue Ead
-- **Psicanálise e Clínica Contemporânea: Sujeito, Sofrimento e Intervenções** - (2023) - IPOG
-
----
-
-## **Pesquisas e Estudos**
-
-- **Pesquisa em Nomofobia (Vício em tecnologia)** - 2017  
-- **Estudo sobre Ansiedade e a Impossibilidade de Ação na Psicanálise: Uma Análise da Neurose Obsessiva** - 2018-2021  
-- **Estudo sobre a Ciência das Emoções** - 2021  
-- **Pesquisa sobre Burnout e Estresse: Impactos Psicológicos e Físicos no Indivíduo** - 2022  
-- **Pesquisa sobre análise de perfilamento indireto da personalidade** - 2024  
-
----
-  
-### Certificações em Andamento
-- **AWS (Amazon Web Services)**
-- **CTIA (Certified Threat Intelligence Analyst)**
-- **ECIH (EC-Council Certified Incident Handler)**
-### Cursos em Andamento
-- **Curso de Inteligência e Investigação em Fontes Abertas – OSINT** - *WB - WebEducacional* - 10ª Edição, 30 horas (Cursando)
-- **Análise Forense de Malware** - *AFD - Academia Forense Digital* - 40 horas (Cursando)
-- **Threat Intelligence** - *AFD - Academia Forense Digital* - 40 horas (Cursando)
-- **Investigação de Ataques Ransomware** - *AFD - Academia Forense Digital* - 10 horas (Cursando)
-- **Resposta a Incidentes** - *AFD - Academia Forense Digital* - 40 horas (Ago/2023)
-- **Masterclass Osint for Cyberwarfare** - *Lobo Inteligência* - 10 horas (Ago/2023)
-
----
-
-<div align="center">
-<img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/3296237a-1776-42c3-9507-69d787287c73" width="250px" />
-</div>
-
-<div align="center">
-<img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="550px" />
-</div>
-
-<div align="center">
-  <a href="https:/https://github.com/Ridd1kulusC0d3r/">
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=Ridd1kulusC0d3r&count_private=true&show_icons=true&theme=white&hide_border=true&hide_rank=true"/>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridd1kulusC0d3r&layout=compact&theme=blue&hide_border=true"/>
-</div>
-
----
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=github) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=ffffff&ring=539bf5&fire=539bf5&currStreakNum=24292e&sideNums=539bf5&currStreakLabel=539bf5&sideLabels=24292e&dates=24292e) |
-| :-: | :-: |
-
-
----
-
-![Snake animation](https://github.com/Ridd1kulusC0d3r/snk/blob/output/github-contribution-grid-snake.svg)
+</details>
