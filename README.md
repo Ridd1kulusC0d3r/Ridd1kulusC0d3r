@@ -7,9 +7,9 @@
 Head de Pesquisa & Inovação na Clavis Segurança da Informação  
 Mestrando em Engenharia de Software na CESAR School · Psicólogo
 
-<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a> <a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" height="24" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" height="24" alt="LinkedIn" /></a>
 
-[Projetos](#projetos) · [Sobre](#sobre) · [Pesquisas](#pesquisas-e-estudos) · [Formação](#formação-acadêmica) · [Carreira](#carreira) · [Contato](#contato)
+[Projetos](#projetos) · [Sobre](#sobre) · [Arsenal](#arsenal) · [Formação](#formação-acadêmica) · [Pesquisas](#pesquisas-e-estudos) · [Carreira](#carreira) · [Contato](#contato)
 
 </div>
 
@@ -17,14 +17,31 @@ Mestrando em Engenharia de Software na CESAR School · Psicólogo
 
 ## Projetos
 
-| Projeto | Foco | Conteúdo disponível |
-|---|---|---|
-| [OSINT](https://github.com/Ridd1kulusC0d3r/OSINT) | Investigação em fontes abertas | Guia de estudos, referências e scripts |
-| [Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling) | Modelagem de ameaças | Materiais e recursos de estudo |
-| [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI) | Compartilhamento de conhecimento | Links de episódios e entrevistas |
-| [Palestras](https://github.com/Ridd1kulusC0d3r/Palestras) | Segurança e comportamento humano | Apresentações e materiais |
+### 01 · OSINT
+**Investigação em fontes abertas**
 
-[Explorar todos os repositórios →](https://github.com/Ridd1kulusC0d3r?tab=repositories)
+Guia de estudos, referências e scripts para explorar técnicas de coleta e análise.  
+`Material de estudo e experimentação`
+
+[Explorar o repositório →](https://github.com/Ridd1kulusC0d3r/OSINT)
+
+### 02 · Cyber Threat Context Modeling
+**Contexto para modelagem de ameaças**
+
+Recursos de estudo sobre atores, cenários de ataque e modelagem de ameaças.  
+`Curadoria de recursos`
+
+[Explorar os materiais →](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling)
+
+### 03 · Palestras
+**Segurança, investigação e comportamento humano**
+
+Apresentações e materiais para compartilhar conhecimento com a comunidade.  
+`Acervo de apresentações`
+
+[Ver apresentações →](https://github.com/Ridd1kulusC0d3r/Palestras)
+
+**Mais conteúdo:** [OsintUAI — episódios e entrevistas](https://github.com/Ridd1kulusC0d3r/OsintUAI) · [Todos os repositórios](https://github.com/Ridd1kulusC0d3r?tab=repositories)
 
 ---
 
@@ -34,37 +51,54 @@ Sou pesquisador sênior em Cybersecurity, com foco em **Threat Intelligence, OSI
 
 Conecto pesquisa à operação: transformo dados de fontes abertas e indicadores de segurança em inteligência para orientar a detecção, a resposta e as decisões do SOC. Desenvolvo frameworks e ferramentas de OSINT e modelagem de ameaças, com foco em soluções simples, auditáveis e reproduzíveis, alinhadas ao contexto de cada organização.
 
+<details>
+<summary>Mais sobre minha trajetória</summary>
+
 Sou pós-graduado em Cyber Threat Intelligence e Investigação Digital e curso o **Mestrado Profissional em Engenharia de Software na CESAR School**, com pesquisa voltada à detecção. Compartilho conhecimento em palestras e iniciativas como H2HC, BSides, Campus Party e Osintomático, além de atuar pontualmente com mentoria de carreira em Cybersecurity.
 
 Minha formação em Psicologia, com especialização em Ciência das Emoções e Análise Forense do Discurso, sustenta minha abordagem da **“Camada 8”**: o fator humano na segurança. Investigo comportamento de adversários, engenharia social e narrativas, com atenção ao contexto, às evidências e aos limites de interpretação.
+
+</details>
 
 ---
 
 ## Arsenal
 
-| Área | Tecnologias, ferramentas e aplicações |
+| Área | Prática e ferramentas |
 |---|---|
-| **Inteligência e investigação** | Threat Intelligence · OSINT · SOCMINT · Modelagem de ameaças |
-| **Detecção e análise** | Engenharia de detecção · Análise de indicadores · Apoio à operação do SOC |
-| **Linguagens em desenvolvimento** | Python · Go · JavaScript |
-| **IA aplicada** | Apoio à pesquisa e à análise · Enriquecimento de dados · Revisão humana e rastreabilidade das fontes |
-| **Editores e organização** | <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" height="24" alt="VS Code" /></a> <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad%2B%2B-527F37?style=flat-square&logo=notepadplusplus&logoColor=white" height="24" alt="Notepad++" /></a> <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-191919?style=flat-square&logo=notion&logoColor=white" height="24" alt="Notion" /></a> <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" height="24" alt="Obsidian" /></a> |
-| **Projetos e materiais** | 🔎 [OSINT](https://github.com/Ridd1kulusC0d3r/OSINT) · 🛡️ [Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling) · 🎙️ [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI) |
-
-As linguagens e aplicações de IA fazem parte dos meus estudos e do desenvolvimento de ferramentas. Os repositórios apresentam o conteúdo e o estágio de cada iniciativa.
+| **🔎 Inteligência** | Threat Intelligence · OSINT · SOCMINT · Modelagem de ameaças |
+| **🛡️ Detecção** | Engenharia de detecção · Análise de indicadores · Apoio à operação do SOC |
+| **⌘ Linguagens** | Python · Go · JavaScript — estudos e desenvolvimento |
+| **◈ IA aplicada** | Pesquisa e enriquecimento de dados, com revisão humana e rastreabilidade |
+| **▤ Ambiente de trabalho** | [VS Code](https://code.visualstudio.com/) · [Notepad++](https://notepad-plus-plus.org/) · [Notion](https://www.notion.so/) · [Obsidian](https://obsidian.md/) |
+| **↗ Projetos** | [OSINT](https://github.com/Ridd1kulusC0d3r/OSINT) · [Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling) · [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI) |
 
 ---
 
 ## Formação acadêmica
 
+> **Mestrado Profissional em Engenharia de Software**  
+> CESAR School · Em andamento  
+> Pesquisa voltada à detecção.
+
+<details>
+<summary>Pós-graduações em andamento</summary>
+
 | Formação | Instituição | Situação |
 |---|---|---|
-| **Mestrado Profissional em Engenharia de Software (MPES)** | CESAR School | Em andamento |
 | **Pós-Graduação em Inteligência Cibernética** | WB Educacional | Em andamento |
 | **Pós-Graduação em Inteligência e Enfrentamento ao Crime Organizado** | WB Educacional | Em andamento |
 | **Pós-Graduação em Inteligência e Investigação em Fontes Abertas (OSINT)** | WB Educacional | Em andamento |
 | **Pós-Graduação em Investigação de Crimes Cibernéticos** | WB Educacional | Em andamento |
 | **Pós-Graduação em Análise de Inteligência Avançada** | WB Educacional | Em andamento |
+
+</details>
+
+<details>
+<summary>Formações concluídas</summary>
+
+| Formação | Instituição | Situação |
+|---|---|---|
 | **Especialização em Investigação Digital** | WB Educacional | Concluída |
 | **Especialização em Cyber Threat Intelligence (CTI)** | Daryus | Concluída |
 | **Comportamento Não Verbal e Análise de Credibilidade** | ClueLab/FACSM Faculdade São Marcos | Concluída |
@@ -73,8 +107,10 @@ As linguagens e aplicações de IA fazem parte dos meus estudos e do desenvolvim
 | **Graduação em Tecnologia em Redes de Computadores** | Faculdade Pitágoras (FPAS) | Concluída |
 | **Técnico em Informática** | Faculdade Pitágoras (FPAS) | Concluída |
 
+</details>
+
 <details>
-<summary>Ver formações trancadas</summary>
+<summary>Formações trancadas</summary>
 
 | Formação | Instituição | Situação |
 |---|---|---|
@@ -88,16 +124,29 @@ As linguagens e aplicações de IA fazem parte dos meus estudos e do desenvolvim
 
 ## Pesquisas e estudos
 
+### 2026 · T.O.C.A.I.A.
+Framework de inteligência OSINT comportamental.
+
+### 2025 · SOCMINT
+Mapeamento de padrões comportamentais em redes sociais.
+
+### 2024 · Perfilamento indireto
+Análise de perfilamento indireto da personalidade.
+
+*Os materiais públicos dessas três pesquisas ainda não estão vinculados neste perfil.*
+
+<details>
+<summary>Ver outras pesquisas e estudos</summary>
+
 | Ano | Tema |
 |---|---|
-| **2026** | **T.O.C.A.I.A.** — framework de inteligência OSINT comportamental |
-| **2025** | Mapeamento de padrões comportamentais em redes sociais — SOCMINT |
-| **2024** | Análise de perfilamento indireto da personalidade |
 | **2023** | Threat Intelligence e arquitetura de modelagem de ameaças |
 | **2022** | Burnout e estresse: impactos psicológicos e físicos no indivíduo |
 | **2021** | Ciência das Emoções |
 | **2018–2021** | Ansiedade e a impossibilidade de ação na psicanálise: uma análise da neurose obsessiva |
 | **2017** | Nomofobia |
+
+</details>
 
 ---
 
@@ -197,23 +246,21 @@ gantt
 
 ## Contato
 
-<a href="https://wa.me/31993742973"><img src="https://img.shields.io/badge/WhatsApp-228B22?style=flat-square&logo=whatsapp&logoColor=white" height="24" alt="WhatsApp" /></a>
-<a href="https://t.me/Ridd1kulusC0d3r"><img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" height="24" alt="Telegram" /></a>
-<a href="mailto:deivsec@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" alt="E-mail" /></a>
+<a href="https://wa.me/31993742973"><img src="https://img.shields.io/badge/WhatsApp-202839?style=flat-square&logo=whatsapp&logoColor=white" height="24" alt="WhatsApp" /></a>
+<a href="https://t.me/Ridd1kulusC0d3r"><img src="https://img.shields.io/badge/Telegram-202839?style=flat-square&logo=telegram&logoColor=white" height="24" alt="Telegram" /></a>
+<a href="mailto:deivsec@gmail.com"><img src="https://img.shields.io/badge/E--mail-202839?style=flat-square&logo=gmail&logoColor=white" height="24" alt="E-mail" /></a>
 
 **Redes sociais**
 
-<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a> <a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" height="24" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/deivisonlourencos/"><img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" height="24" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/deivisonlourencos/"><img src="https://img.shields.io/badge/Instagram-202839?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
 
 ---
 
 ## Atividade no GitHub
 
 <div align="center">
-  <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/3296237a-1776-42c3-9507-69d787287c73" width="200" alt="Identidade visual do perfil" />
-  <br />
-  <img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="480" alt="DEIVOSINT" />
+  <img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="320" alt="DEIVOSINT" />
 </div>
 
 <p align="center">
