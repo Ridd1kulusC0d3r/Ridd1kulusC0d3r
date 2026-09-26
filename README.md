@@ -38,6 +38,52 @@ Minha formação em Psicologia, com especialização em Ciência das Emoções e
 
 ---
 
+## Arsenal
+
+| Área | Tecnologias, ferramentas e aplicações |
+|---|---|
+| **Inteligência e investigação** | Threat Intelligence · OSINT · SOCMINT · Modelagem de ameaças |
+| **Detecção e análise** | Engenharia de detecção · Análise de indicadores · Apoio à operação do SOC |
+| **Linguagens em desenvolvimento** | Python · Go · JavaScript |
+| **IA aplicada** | Apoio à pesquisa e à análise · Enriquecimento de dados · Revisão humana e rastreabilidade das fontes |
+| **Editores e organização** | [VS Code](https://code.visualstudio.com/) · [Notepad++](https://notepad-plus-plus.org/) · [Notion](https://www.notion.so/) · [Obsidian](https://obsidian.md/) |
+| **Projetos e materiais** | [OSINT](https://github.com/Ridd1kulusC0d3r/OSINT) · [Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling) · [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI) |
+
+As linguagens e aplicações de IA fazem parte dos meus estudos e do desenvolvimento de ferramentas. Os repositórios apresentam o conteúdo e o estágio de cada iniciativa.
+
+---
+
+## Formação acadêmica
+
+| Formação | Instituição | Situação |
+|---|---|---|
+| **Mestrado Profissional em Engenharia de Software (MPES)** | CESAR School | Em andamento |
+| **Pós-Graduação em Inteligência Cibernética** | WB Educacional | Em andamento |
+| **Pós-Graduação em Inteligência e Enfrentamento ao Crime Organizado** | WB Educacional | Em andamento |
+| **Pós-Graduação em Inteligência e Investigação em Fontes Abertas (OSINT)** | WB Educacional | Em andamento |
+| **Pós-Graduação em Investigação de Crimes Cibernéticos** | WB Educacional | Em andamento |
+| **Pós-Graduação em Análise de Inteligência Avançada** | WB Educacional | Em andamento |
+| **Especialização em Investigação Digital** | WB Educacional | Concluída |
+| **Especialização em Cyber Threat Intelligence (CTI)** | Daryus | Concluída |
+| **Comportamento Não Verbal e Análise de Credibilidade** | ClueLab/FACSM Faculdade São Marcos | Concluída |
+| **Bacharelado em Psicologia** | Faculdade Pitágoras (FPAS) | Concluída |
+| **MBA em Gestão de Projetos com Ênfase em Tecnologia** | Faculdade Vincit (UNICIV) | Concluída |
+| **Graduação em Tecnologia em Redes de Computadores** | Faculdade Pitágoras (FPAS) | Concluída |
+| **Técnico em Informática** | Faculdade Pitágoras (FPAS) | Concluída |
+
+<details>
+<summary>Ver formações trancadas</summary>
+
+| Formação | Instituição | Situação |
+|---|---|---|
+| **Psicologia Fenomenológica-Existencial** | Faveni (2021) | Trancada |
+| **Criminal Profiling** | Blue Ead (2022) | Trancada |
+| **Psicanálise e Clínica Contemporânea: Sujeito, Sofrimento e Intervenções** | IPOG (2023) | Trancada |
+
+</details>
+
+---
+
 ## Pesquisas e estudos
 
 | Ano | Tema |
@@ -50,38 +96,6 @@ Minha formação em Psicologia, com especialização em Ciência das Emoções e
 | **2021** | Ciência das Emoções |
 | **2018–2021** | Ansiedade e a impossibilidade de ação na psicanálise: uma análise da neurose obsessiva |
 | **2017** | Nomofobia |
-
----
-
-## Formação acadêmica
-
-### Cursando
-
-- **Mestrado Profissional em Engenharia de Software (MPES)** — CESAR School
-- **Pós-Graduação em Inteligência Cibernética** — WB Educacional
-- **Pós-Graduação em Inteligência e Enfrentamento ao Crime Organizado** — WB Educacional
-- **Pós-Graduação em Inteligência e Investigação em Fontes Abertas (OSINT)** — WB Educacional
-- **Pós-Graduação em Investigação de Crimes Cibernéticos** — WB Educacional
-- **Pós-Graduação em Análise de Inteligência Avançada** — WB Educacional
-
-### Concluídas
-
-- **Especialização em Investigação Digital** — WB Educacional
-- **Especialização em Cyber Threat Intelligence (CTI)** — Daryus
-- **Comportamento Não Verbal e Análise de Credibilidade** — ClueLab/FACSM Faculdade São Marcos
-- **Bacharelado em Psicologia** — Faculdade Pitágoras (FPAS)
-- **MBA em Gestão de Projetos com Ênfase em Tecnologia** — Faculdade Vincit (UNICIV)
-- **Graduação em Tecnologia em Redes de Computadores** — Faculdade Pitágoras (FPAS)
-- **Técnico em Informática** — Faculdade Pitágoras (FPAS)
-
-<details>
-<summary>Formações trancadas</summary>
-
-- **Psicologia Fenomenológica-Existencial** — Faveni (2021)
-- **Criminal Profiling** — Blue Ead (2022)
-- **Psicanálise e Clínica Contemporânea: Sujeito, Sofrimento e Intervenções** — IPOG (2023)
-
-</details>
 
 ---
 
@@ -150,48 +164,38 @@ gantt
 
 ### Certificações em andamento
 
-- **T|IE** — Threat Intelligence Essentials
-- **C|TIA** — Certified Threat Intelligence Analyst
-- **E|CIH** — EC-Council Certified Incident Handler
-- **PORP OSINT**
+| Certificação | Nome |
+|---|---|
+| **T&#124;IE** | Threat Intelligence Essentials |
+| **C&#124;TIA** | Certified Threat Intelligence Analyst |
+| **E&#124;CIH** | EC-Council Certified Incident Handler |
+| **PORP OSINT** | PORP OSINT |
 
-### Em andamento
+### Cursos
 
-- **Inteligência e Investigação em Fontes Abertas — OSINT** — WB / WebEducacional · 10ª edição · 30 horas
-- **Análise Forense de Malware** — AFD / Academia Forense Digital · 40 horas
-- **Threat Intelligence** — AFD / Academia Forense Digital · 40 horas
-- **Investigação de Ataques Ransomware** — AFD / Academia Forense Digital · 10 horas
-
-### Histórico informado
-
-- **Resposta a Incidentes** — AFD / Academia Forense Digital · 40 horas · 08/2023
-- **Masterclass OSINT for Cyberwarfare** — Lobo Inteligência · 10 horas · 08/2023
-
+| Curso | Instituição | Carga horária | Situação / referência |
+|---|---|---|---|
+| **Inteligência e Investigação em Fontes Abertas — OSINT** | WB / WebEducacional | 30 h | Em andamento · 10ª edição |
+| **Análise Forense de Malware** | AFD / Academia Forense Digital | 40 h | Em andamento |
+| **Threat Intelligence** | AFD / Academia Forense Digital | 40 h | Em andamento |
+| **Investigação de Ataques Ransomware** | AFD / Academia Forense Digital | 10 h | Em andamento |
+| **Resposta a Incidentes** | AFD / Academia Forense Digital | 40 h | Histórico informado · 08/2023 |
+| **Masterclass OSINT for Cyberwarfare** | Lobo Inteligência | 10 h | Histórico informado · 08/2023 |
 
 </details>
 
 ---
 
-## Tecnologias e aprendizado
+## Idiomas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![IA aplicada](https://img.shields.io/badge/IA_aplicada-Intelig%C3%AAncia_e_Investiga%C3%A7%C3%A3o-202839?style=flat-square)
-
-Estudos e desenvolvimento em **Python, Go e JavaScript**, com interesse em **IA aplicada à pesquisa, ao enriquecimento de dados e ao apoio à análise de inteligência**, mantendo revisão humana e rastreabilidade das fontes.
-
-### Ambiente de trabalho e organização
-
-[Notion](https://www.notion.so/) · [Notepad++](https://notepad-plus-plus.org/) · [Obsidian](https://obsidian.md/) · [Visual Studio Code](https://code.visualstudio.com/)
+🇧🇷 **Português** — Nativo · 🇺🇸 **Inglês** — Básico/intermediário  
+🇪🇸 **Espanhol** — Intermediário/Avançado · 🇷🇺 **Russo** — Básico
 
 ---
 
 ## Contato
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/31993742973)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Ridd1kulusC0d3r)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deivsec@gmail.com)
+[WhatsApp](https://wa.me/31993742973) · [Telegram](https://t.me/Ridd1kulusC0d3r) · [E-mail](mailto:deivsec@gmail.com)
 
 **Redes sociais:** [LinkedIn](https://www.linkedin.com/in/deivisonlourencos/) · [Instagram](https://www.instagram.com/deivisonlourencos)
 
@@ -200,20 +204,21 @@ Estudos e desenvolvimento em **Python, Go e JavaScript**, com interesse em **IA 
 ## Atividade no GitHub
 
 <div align="center">
-  <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/3296237a-1776-42c3-9507-69d787287c73" width="250" alt="Identidade visual do perfil" />
+  <img src="https://github.com/Ridd1kulusC0d3r/Config_profile/assets/142614578/3296237a-1776-42c3-9507-69d787287c73" width="200" alt="Identidade visual do perfil" />
   <br />
-  <img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="550" alt="DEIVOSINT" />
+  <img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="480" alt="DEIVOSINT" />
 </div>
-
-| Estatísticas | Linguagens por repositório | Linguagens por commit |
-|:---:|:---:|:---:|
-| ![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=github) | ![Linguagens por repositório](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github) | ![Linguagens por commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=github) |
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github" width="700" alt="Histórico de contribuições no GitHub" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=ffffff&ring=539bf5&fire=539bf5&currStreakNum=24292e&sideNums=539bf5&currStreakLabel=539bf5&sideLabels=24292e&dates=24292e" width="495" alt="Sequência de contribuições no GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=github" width="32%" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github" width="32%" alt="Linguagens por repositório" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=github" width="32%" alt="Linguagens por commit" />
 </div>
 
-![Animação das contribuições](https://github.com/Ridd1kulusC0d3r/snk/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github" width="100%" alt="Histórico de contribuições no GitHub" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=ffffff&ring=539bf5&fire=539bf5&currStreakNum=24292e&sideNums=539bf5&currStreakLabel=539bf5&sideLabels=24292e&dates=24292e" width="60%" alt="Sequência de contribuições no GitHub" />
+</div>
 
+<img src="https://raw.githubusercontent.com/Ridd1kulusC0d3r/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Animação das contribuições" />
