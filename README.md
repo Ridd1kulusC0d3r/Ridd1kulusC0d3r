@@ -7,6 +7,8 @@
 Head de Pesquisa & Inovação na Clavis Segurança da Informação  
 Mestrando em Engenharia de Software na CESAR School · Psicólogo
 
+<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a> <a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" height="24" alt="LinkedIn" /></a>
+
 [Projetos](#projetos) · [Sobre](#sobre) · [Pesquisas](#pesquisas-e-estudos) · [Formação](#formação-acadêmica) · [Carreira](#carreira) · [Contato](#contato)
 
 </div>
@@ -46,8 +48,8 @@ Minha formação em Psicologia, com especialização em Ciência das Emoções e
 | **Detecção e análise** | Engenharia de detecção · Análise de indicadores · Apoio à operação do SOC |
 | **Linguagens em desenvolvimento** | Python · Go · JavaScript |
 | **IA aplicada** | Apoio à pesquisa e à análise · Enriquecimento de dados · Revisão humana e rastreabilidade das fontes |
-| **Editores e organização** | [VS Code](https://code.visualstudio.com/) · [Notepad++](https://notepad-plus-plus.org/) · [Notion](https://www.notion.so/) · [Obsidian](https://obsidian.md/) |
-| **Projetos e materiais** | [OSINT](https://github.com/Ridd1kulusC0d3r/OSINT) · [Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling) · [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI) |
+| **Editores e organização** | <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" height="24" alt="VS Code" /></a> <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad%2B%2B-527F37?style=flat-square&logo=notepadplusplus&logoColor=white" height="24" alt="Notepad++" /></a> <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-191919?style=flat-square&logo=notion&logoColor=white" height="24" alt="Notion" /></a> <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" height="24" alt="Obsidian" /></a> |
+| **Projetos e materiais** | 🔎 [OSINT](https://github.com/Ridd1kulusC0d3r/OSINT) · 🛡️ [Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling) · 🎙️ [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI) |
 
 As linguagens e aplicações de IA fazem parte dos meus estudos e do desenvolvimento de ferramentas. Os repositórios apresentam o conteúdo e o estágio de cada iniciativa.
 
@@ -195,9 +197,14 @@ gantt
 
 ## Contato
 
-[WhatsApp](https://wa.me/31993742973) · [Telegram](https://t.me/Ridd1kulusC0d3r) · [E-mail](mailto:deivsec@gmail.com)
+<a href="https://wa.me/31993742973"><img src="https://img.shields.io/badge/WhatsApp-228B22?style=flat-square&logo=whatsapp&logoColor=white" height="24" alt="WhatsApp" /></a>
+<a href="https://t.me/Ridd1kulusC0d3r"><img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" height="24" alt="Telegram" /></a>
+<a href="mailto:deivsec@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" alt="E-mail" /></a>
 
-**Redes sociais:** [LinkedIn](https://www.linkedin.com/in/deivisonlourencos/) · [Instagram](https://www.instagram.com/deivisonlourencos)
+**Redes sociais**
+
+<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a> <a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" height="24" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/deivisonlourencos/"><img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
 
 ---
 
