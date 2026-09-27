@@ -7,9 +7,15 @@
 Head de Pesquisa & Inovação na Clavis Segurança da Informação  
 Mestrando em Engenharia de Software na CESAR School · Psicólogo
 
-<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square" height="24" alt="LinkedIn" /></a>
-
-[Sobre](#sobre) · [Projetos](#projetos) · [Arsenal](#arsenal) · [Formação](#formação-acadêmica) · [Pesquisas](#pesquisas-e-estudos) · [Carreira](#carreira) · [Contato](#contato)
+<samp>
+<a href="#sobre">sobre</a> ·
+<a href="#projetos">projetos</a> ·
+<a href="#pesquisas-e-estudos">pesquisa</a> ·
+<a href="https://github.com/Ridd1kulusC0d3r/Palestras">palestras</a> ·
+<a href="https://github.com/Ridd1kulusC0d3r/OsintUAI">podcast</a> ·
+<a href="https://www.linkedin.com/in/deivisonlourencos/">linkedin</a> ·
+<a href="mailto:deivsec@gmail.com">e-mail</a>
+</samp>
 
 </div>
 
@@ -85,14 +91,16 @@ Apresentações e materiais para compartilhar conhecimento com a comunidade.
 
 ---
 
-## Formação acadêmica
+## Formação & Certificações
 
 > **Mestrado Profissional em Engenharia de Software**  
 > CESAR School · Em andamento  
 > Pesquisa voltada à detecção.
 
 <details>
-<summary>Pós-graduações em andamento</summary>
+<summary><strong>Ver formação completa, certificações e cursos</strong></summary>
+
+### Pós-graduações em andamento
 
 | Formação | Instituição | Situação |
 |---|---|---|
@@ -102,10 +110,7 @@ Apresentações e materiais para compartilhar conhecimento com a comunidade.
 | **Pós-Graduação em Investigação de Crimes Cibernéticos** | WB Educacional | Em andamento |
 | **Pós-Graduação em Análise de Inteligência Avançada** | WB Educacional | Em andamento |
 
-</details>
-
-<details>
-<summary>Formações concluídas</summary>
+### Formações concluídas
 
 | Formação | Instituição | Situação |
 |---|---|---|
@@ -117,16 +122,33 @@ Apresentações e materiais para compartilhar conhecimento com a comunidade.
 | **Graduação em Tecnologia em Redes de Computadores** | Faculdade Pitágoras (FPAS) | Concluída |
 | **Técnico em Informática** | Faculdade Pitágoras (FPAS) | Concluída |
 
-</details>
-
-<details>
-<summary>Formações trancadas</summary>
+### Formações trancadas
 
 | Formação | Instituição | Situação |
 |---|---|---|
 | **Psicologia Fenomenológica-Existencial** | Faveni (2021) | Trancada |
 | **Criminal Profiling** | Blue Ead (2022) | Trancada |
 | **Psicanálise e Clínica Contemporânea: Sujeito, Sofrimento e Intervenções** | IPOG (2023) | Trancada |
+
+### Certificações em andamento
+
+| Certificação | Nome |
+|---|---|
+| **T&#124;IE** | Threat Intelligence Essentials |
+| **C&#124;TIA** | Certified Threat Intelligence Analyst |
+| **E&#124;CIH** | EC-Council Certified Incident Handler |
+| **PORP OSINT** | PORP OSINT |
+
+### Cursos
+
+| Curso | Instituição | Carga horária | Situação / referência |
+|---|---|---|---|
+| **Inteligência e Investigação em Fontes Abertas — OSINT** | WB / WebEducacional | 30 h | Em andamento · 10ª edição |
+| **Análise Forense de Malware** | AFD / Academia Forense Digital | 40 h | Em andamento |
+| **Threat Intelligence** | AFD / Academia Forense Digital | 40 h | Em andamento |
+| **Investigação de Ataques Ransomware** | AFD / Academia Forense Digital | 10 h | Em andamento |
+| **Resposta a Incidentes** | AFD / Academia Forense Digital | 40 h | Histórico informado · 08/2023 |
+| **Masterclass OSINT for Cyberwarfare** | Lobo Inteligência | 10 h | Histórico informado · 08/2023 |
 
 </details>
 
@@ -223,83 +245,9 @@ gantt
 
 ---
 
-## Desenvolvimento profissional
-
-<details>
-<summary><strong>Ver certificações e cursos</strong></summary>
-
-### Certificações em andamento
-
-| Certificação | Nome |
-|---|---|
-| **T&#124;IE** | Threat Intelligence Essentials |
-| **C&#124;TIA** | Certified Threat Intelligence Analyst |
-| **E&#124;CIH** | EC-Council Certified Incident Handler |
-| **PORP OSINT** | PORP OSINT |
-
-### Cursos
-
-| Curso | Instituição | Carga horária | Situação / referência |
-|---|---|---|---|
-| **Inteligência e Investigação em Fontes Abertas — OSINT** | WB / WebEducacional | 30 h | Em andamento · 10ª edição |
-| **Análise Forense de Malware** | AFD / Academia Forense Digital | 40 h | Em andamento |
-| **Threat Intelligence** | AFD / Academia Forense Digital | 40 h | Em andamento |
-| **Investigação de Ataques Ransomware** | AFD / Academia Forense Digital | 10 h | Em andamento |
-| **Resposta a Incidentes** | AFD / Academia Forense Digital | 40 h | Histórico informado · 08/2023 |
-| **Masterclass OSINT for Cyberwarfare** | Lobo Inteligência | 10 h | Histórico informado · 08/2023 |
-
-</details>
-
----
-
 ## Idiomas
 
 **Português** — Nativo · **Inglês** — Básico/intermediário  
 **Espanhol** — Intermediário/Avançado · **Russo** — Básico
 
 ---
-
-## Contato
-
-<a href="https://wa.me/31993742973"><img src="https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=white" height="24" alt="WhatsApp" /></a>
-<a href="https://t.me/Ridd1kulusC0d3r"><img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white" height="24" alt="Telegram" /></a>
-<a href="mailto:deivsec@gmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=flat-square&logo=gmail&logoColor=white" height="24" alt="E-mail" /></a>
-
-**Redes sociais**
-
-<a href="https://www.linkedin.com/in/deivisonlourencos/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square" height="24" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/deivisonlourencos/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
-
----
-
-## Atividade no GitHub
-
-<details>
-<summary><strong>Ver estatísticas e atividade</strong></summary>
-
-<div align="center">
-  <img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="320" alt="DEIVOSINT" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridd1kulusC0d3r&theme=github" width="300" alt="Estatísticas gerais do GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github" width="300" alt="Linguagens por repositório" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github" width="600" alt="Histórico de contribuições no GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridd1kulusC0d3r&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=ffffff&ring=539bf5&fire=539bf5&currStreakNum=24292e&sideNums=539bf5&currStreakLabel=539bf5&sideLabels=24292e&dates=24292e" width="450" alt="Sequência de contribuições no GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridd1kulusC0d3r&theme=github" width="300" alt="Linguagens por commit" />
-</p>
-
-<img src="https://raw.githubusercontent.com/Ridd1kulusC0d3r/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Animação das contribuições" />
-
-</details>
