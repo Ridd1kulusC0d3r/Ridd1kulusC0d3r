@@ -1,3 +1,14 @@
+<!-- LANGUAGE_SELECTOR_START -->
+<p align="center">
+  <samp>
+    <strong>English</strong> ·
+    <a href="./README.pt-BR.md">Português</a> ·
+    <a href="./README.es.md">Español</a> ·
+    <a href="./README.ru.md">Русский</a>
+  </samp>
+</p>
+<!-- LANGUAGE_SELECTOR_END -->
+
 <div align="center">
 
 # Deivison Lourenço
@@ -10,7 +21,7 @@ Professional Master's student in Software Engineering at CESAR School · Psychol
 <samp>
 <a href="#about">about</a> ·
 <a href="#projects">projects</a> ·
-<a href="#research--studies">research</a> ·
+<a href="#research">research</a> ·
 <a href="https://github.com/Ridd1kulusC0d3r/T4lks">talks</a> ·
 <a href="https://github.com/Ridd1kulusC0d3r/OsintUAI">podcast</a> ·
 <a href="https://www.linkedin.com/in/deivisonlourencos/">linkedin</a> ·
@@ -21,6 +32,8 @@ Professional Master's student in Software Engineering at CESAR School · Psychol
 </div>
 
 ---
+
+<a id="about"></a>
 
 ## About
 
@@ -38,6 +51,8 @@ My background in Psychology, together with studies in the Science of Emotions an
 </details>
 
 ---
+
+<a id="projects"></a>
 
 ## Projects
 
@@ -74,6 +89,8 @@ Presentations and supporting material created to share knowledge with the commun
 
 ---
 
+<a id="toolkit"></a>
+
 ## Toolkit
 
 <details>
@@ -91,6 +108,8 @@ Presentations and supporting material created to share knowledge with the commun
 </details>
 
 ---
+
+<a id="education"></a>
 
 ## Education & Certifications
 
@@ -155,6 +174,8 @@ Presentations and supporting material created to share knowledge with the commun
 
 ---
 
+<a id="research"></a>
+
 ## Research & Studies
 
 <details>
@@ -187,6 +208,8 @@ Analysis of indirect personality profiling.
 </details>
 
 ---
+
+<a id="career"></a>
 
 ## Career
 
@@ -245,6 +268,8 @@ gantt
 </details>
 
 ---
+
+<a id="languages"></a>
 
 ## Languages
 
