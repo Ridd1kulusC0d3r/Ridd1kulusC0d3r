@@ -61,11 +61,13 @@ Minha formação em Psicologia, somada aos estudos em Ciência das Emoções e A
 Meus projetos e pesquisas são expressões práticas da mesma base: análise de inteligência, investigação comportamental, threat modeling, detection engineering, investigação digital, automação e pesquisa orientada por evidências.
 
 ### T.O.C.A.I.A.
-**Behavioral OSINT & inteligência da ausência**
+**Behavioral OSINT & Detection by Absence**
 
-Framework de pesquisa focado em sinais comportamentais, evidências indiretas, lacunas de contexto e no que pode ser aprendido não apenas pelo que está presente, mas também pelo que está significativamente ausente.
+Framework de inteligência orientado à pesquisa para transformar *observações esperadas ausentes* em inteligência auditável sem confundir silêncio comportamental com falha de coleta. A implementação pública formaliza detectabilidade, baselines, hipóteses concorrentes, confiança, proveniência e reprodutibilidade.
 
-`Behavioral OSINT · SOCMINT · perfilamento indireto · fatores humanos · incerteza`
+[Explorar T.O.C.A.I.A. →](https://github.com/Ridd1kulusC0d3r/tocaia-osint)
+
+`Behavioral OSINT · análise de ausência · proveniência · hipóteses concorrentes · incerteza`
 
 ### OSINT
 **Investigação em fontes abertas & research engineering**
@@ -111,7 +113,7 @@ Palestras, workshops, entrevistas e materiais técnicos conectando ciberseguran�
 
 | Ano | Linha de pesquisa |
 |---|---|
-| **2026** | **T.O.C.A.I.A.** — Behavioral OSINT e inteligência da ausência |
+| **2026** | **T.O.C.A.I.A.** — Behavioral OSINT e Detection by Absence |
 | **2025** | **SOCMINT** — Mapeamento de padrões comportamentais em redes sociais |
 | **2024** | **Perfilamento indireto** — Análise de perfilamento indireto da personalidade |
 | **2023** | Threat Intelligence e arquitetura de threat modeling |
