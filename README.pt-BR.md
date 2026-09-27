@@ -14,15 +14,16 @@
 
 # Deivison Lourenço
 
-**Cyber Threat Intelligence · OSINT & SOCMINT · Detection Engineering · Digital Investigation · Threat Modeling · Behavioral OSINT**
+**Cyber Threat Intelligence · Behavioral OSINT · Detection Engineering · Threat Modeling**
 
 Head de Pesquisa & Inovação na Clavis Segurança da Informação  
 Mestrando Profissional em Engenharia de Software na CESAR School · Psicólogo
 
 <samp>
 <a href="#about">sobre</a> ·
-<a href="#projects">projetos</a> ·
-<a href="#research">pesquisa</a> ·
+<a href="#work">trabalho</a> ·
+<a href="#education">formação</a> ·
+<a href="#career">carreira</a> ·
 <a href="https://github.com/Ridd1kulusC0d3r/T4lks">palestras</a> ·
 <a href="https://github.com/Ridd1kulusC0d3r/OsintUAI">podcast</a> ·
 <a href="https://www.linkedin.com/in/deivisonlourencos/">linkedin</a> ·
@@ -38,73 +39,86 @@ Mestrando Profissional em Engenharia de Software na CESAR School · Psicólogo
 
 ## Sobre
 
-Sou pesquisador sênior em cibersegurança, com foco em **Threat Intelligence, OSINT e Detection Engineering**. Como Head de Pesquisa & Inovação na Clavis Segurança da Informação, lidero pesquisa aplicada para apoiar organizações na preparação contra ameaças cibernéticas.
+Sou pesquisador sênior em cibersegurança atuando na interseção entre **Cyber Threat Intelligence, Behavioral OSINT, Detection Engineering e Threat Modeling**. Como Head de Pesquisa & Inovação na Clavis Segurança da Informação, lidero pesquisa aplicada que conecta comportamento adversário, evidências de fontes abertas e necessidades operacionais de segurança.
 
-Conecto pesquisa à operação transformando dados de fontes abertas e indicadores de segurança em inteligência que apoia detecção, resposta a incidentes e tomada de decisão no SOC. Desenvolvo frameworks e ferramentas de OSINT e threat modeling com ênfase em soluções simples, auditáveis e reproduzíveis, adaptadas ao contexto de cada organização.
+Meu trabalho presta atenção especial ao que análises convencionais tendem a ignorar: padrões comportamentais, sinais fracos, lacunas de contexto e ausências significativas. Desenvolvo métodos, frameworks e ferramentas auditáveis e reproduzíveis que combinam cibersegurança, investigação digital, psicologia e IA aplicada, mantendo qualidade da evidência, incerteza, rastreabilidade e revisão humana no centro.
 
 <details>
 <summary>Mais sobre minha trajetória</summary>
 
 Sou pós-graduado em Cyber Threat Intelligence e Investigação Digital e atualmente curso o **Mestrado Profissional em Engenharia de Software na CESAR School**, com pesquisa voltada à detecção. Compartilho conhecimento por meio de palestras e iniciativas como H2HC, BSides, Campus Party e Osintomático, além de já ter atuado com mentoria de carreira em cibersegurança.
 
-Minha formação em Psicologia, somada aos estudos em Ciência das Emoções e Análise Forense do Discurso, sustenta minha abordagem da **"Camada 8"**: o fator humano na cibersegurança. Pesquiso comportamento de adversários, engenharia social e narrativas, com atenção ao contexto, às evidências e aos limites de interpretação.
+Minha formação em Psicologia, somada aos estudos em Ciência das Emoções e Análise Forense do Discurso, sustenta minha abordagem da **"Camada 8"**: o fator humano na cibersegurança. Pesquiso comportamento de adversários, engenharia social, narrativas e sinais indiretos, com atenção ao contexto, às evidências e aos limites de interpretação.
 
 </details>
 
 ---
 
-<a id="projects"></a>
+<a id="work"></a>
 
-## Projetos
+## Trabalho, Pesquisa & Toolkit
+
+Meus projetos e pesquisas são expressões práticas da mesma base: análise de inteligência, investigação comportamental, threat modeling, detection engineering, investigação digital, automação e pesquisa orientada por evidências.
+
+### T.O.C.A.I.A.
+**Behavioral OSINT & inteligência da ausência**
+
+Framework de pesquisa focado em sinais comportamentais, evidências indiretas, lacunas de contexto e no que pode ser aprendido não apenas pelo que está presente, mas também pelo que está significativamente ausente.
+
+`Behavioral OSINT · SOCMINT · perfilamento indireto · fatores humanos · incerteza`
+
+### OSINT
+**Investigação em fontes abertas & research engineering**
+
+Guias de estudo, referências e scripts para coleta, enriquecimento, análise e fluxos OSINT reproduzíveis.
+
+[Explorar OSINT →](https://github.com/Ridd1kulusC0d3r/OSINT)
+
+`OSINT · Investigação Digital · Python · enriquecimento de dados · tratamento de evidências`
+
+### Cyber Threat Context Modeling
+**Threat modeling conectado à detecção**
+
+Pesquisa e material de estudo para conectar atores de ameaça, cenários de ataque, contexto e engenharia defensiva.
+
+[Explorar Cyber Threat Context Modeling →](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling)
+
+`Threat Modeling · Detection Engineering · CTI · análise de indicadores · contexto de SOC`
+
+### T4lks & OsintUAI
+**Compartilhamento de conhecimento & comunidade**
+
+Palestras, workshops, entrevistas e materiais técnicos conectando cibersegurança, OSINT, investigação e comportamento humano.
+
+[Palestras →](https://github.com/Ridd1kulusC0d3r/T4lks) · [OsintUAI →](https://github.com/Ridd1kulusC0d3r/OsintUAI)
+
+`Comunicação técnica · disseminação de pesquisa · comunidade · mentoria`
 
 <details>
-<summary><strong>Ver projetos em destaque</strong></summary>
+<summary><strong>Ver linhas de pesquisa & toolkit de engenharia</strong></summary>
 
-### 01 · OSINT
-**Investigação em fontes abertas**
+### Research & Engineering Stack
 
-Guias de estudo, referências e scripts para explorar técnicas de coleta e análise.  
-`Material de estudo e experimentação`
+| Domínio | Habilidades & métodos | Trabalho relacionado |
+|---|---|---|
+| **Inteligência Comportamental** | Behavioral OSINT · SOCMINT · perfilamento indireto · sinais comportamentais · fatores humanos · análise contextual | T.O.C.A.I.A. · OSINT |
+| **Threat Modeling & Detecção** | Threat modeling · detection engineering · análise de indicadores · apoio à decisão no SOC · contexto de ameaça | Cyber Threat Context Modeling |
+| **Investigação Digital & Automação** | Investigação digital · Python · Go · JavaScript · coleta · enriquecimento · análise estruturada | OSINT · tooling de pesquisa |
+| **IA Aplicada & Research Engineering** | Pesquisa assistida por IA · enriquecimento de dados · revisão humana · rastreabilidade · reprodutibilidade | Fluxos de pesquisa · tooling experimental |
+| **Conhecimento & Comunidade** | Palestras · escrita técnica · entrevistas · ensino · mentoria | T4lks · OsintUAI |
 
-[Explorar o repositório →](https://github.com/Ridd1kulusC0d3r/OSINT)
+### Linha do tempo de pesquisa
 
-### 02 · Cyber Threat Context Modeling
-**Modelagem de ameaças orientada por contexto**
-
-Recursos de estudo sobre atores de ameaça, cenários de ataque e threat modeling.  
-`Curadoria de recursos`
-
-[Explorar os materiais →](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling)
-
-### 03 · Palestras
-**Segurança, investigação e comportamento humano**
-
-Apresentações e materiais de apoio criados para compartilhar conhecimento com a comunidade.  
-`Acervo de palestras e apresentações`
-
-[Ver palestras →](https://github.com/Ridd1kulusC0d3r/T4lks)
-
-**Mais:** [OsintUAI — episódios e entrevistas](https://github.com/Ridd1kulusC0d3r/OsintUAI) · [Todos os repositórios](https://github.com/Ridd1kulusC0d3r?tab=repositories)
-
-</details>
-
----
-
-<a id="toolkit"></a>
-
-## Arsenal
-
-<details>
-<summary><strong>Ver arsenal técnico</strong></summary>
-
-| Área | Prática e ferramentas |
+| Ano | Linha de pesquisa |
 |---|---|
-| **⌕ Inteligência** | Threat Intelligence · OSINT · SOCMINT · Threat Modeling |
-| **◇ Detecção** | Detection Engineering · Análise de indicadores · Apoio à operação do SOC |
-| **⌘ Linguagens** | Python · Go · JavaScript — estudo e desenvolvimento |
-| **◈ IA aplicada** | Pesquisa e enriquecimento de dados com revisão humana e rastreabilidade |
-| **▤ Ambiente de trabalho** | <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square" height="24" alt="VS Code" /></a> <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad%2B%2B-000000?style=flat-square&logo=notepadplusplus&logoColor=white" height="24" alt="Notepad++" /></a> <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="24" alt="Notion" /></a> <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" height="24" alt="Obsidian" /></a> |
-| **↗ Projetos** | [OSINT](https://github.com/Ridd1kulusC0d3r/OSINT) · [Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling) · [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI) |
+| **2026** | **T.O.C.A.I.A.** — Behavioral OSINT e inteligência da ausência |
+| **2025** | **SOCMINT** — Mapeamento de padrões comportamentais em redes sociais |
+| **2024** | **Perfilamento indireto** — Análise de perfilamento indireto da personalidade |
+| **2023** | Threat Intelligence e arquitetura de threat modeling |
+| **2022** | Burnout e estresse: impactos psicológicos e físicos no indivíduo |
+| **2021** | Ciência das Emoções |
+| **2018–2021** | Ansiedade e a impossibilidade de ação na psicanálise: uma análise da neurose obsessiva |
+| **2017** | Nomofobia |
 
 </details>
 
@@ -175,39 +189,6 @@ Apresentações e materiais de apoio criados para compartilhar conhecimento com 
 
 ---
 
-<a id="research"></a>
-
-## Pesquisas & Estudos
-
-<details>
-<summary><strong>Ver pesquisas e linhas de estudo</strong></summary>
-
-### 2026 · T.O.C.A.I.A.
-Framework de inteligência OSINT comportamental.
-
-### 2025 · SOCMINT
-Mapeamento de padrões comportamentais em redes sociais.
-
-### 2024 · Perfilamento indireto
-Análise de perfilamento indireto da personalidade.
-
-*Os materiais públicos dessas três linhas de pesquisa ainda não estão vinculados a este perfil.*
-
-<details>
-<summary>Ver outras pesquisas e estudos</summary>
-
-| Ano | Tema |
-|---|---|
-| **2023** | Threat Intelligence e arquitetura de threat modeling |
-| **2022** | Burnout e estresse: impactos psicológicos e físicos no indivíduo |
-| **2021** | Ciência das Emoções |
-| **2018–2021** | Ansiedade e a impossibilidade de ação na psicanálise: uma análise da neurose obsessiva |
-| **2017** | Nomofobia |
-
-</details>
-
-</details>
-
 ---
 
 <a id="career"></a>
@@ -215,7 +196,7 @@ Análise de perfilamento indireto da personalidade.
 ## Carreira
 
 <details>
-<summary><strong>Ver trajetória profissional, acadêmica e linha do tempo</strong></summary>
+<summary><strong>Ver trajetória profissional & acadêmica selecionada</strong></summary>
 
 ### Profissional
 
@@ -223,48 +204,19 @@ Análise de perfilamento indireto da personalidade.
 |---|---|
 | **Head of Cyber Research & Threat Detection Engineering** | Desde 10/2024 |
 | **Coordenador de Cybersecurity** | 05/2022–10/2024 |
-| **TechLead Cybersecurity** | 12/2021–05/2022 |
-| **SOC Analyst** | 08/2021–12/2021 |
-| **Especialista em Cybersecurity** | 04/2021–08/2021 |
-| **Analista de GMUD/Qualidade** | 01/2019–04/2021 |
-| **Especialista em suporte a sistemas** | 06/2015–09/2018 |
+| **Cybersecurity Tech Lead** | 12/2021–05/2022 |
+| **SOC Analyst / Especialista em Cybersecurity** | 04/2021–12/2021 |
+| **Atuações em Sistemas, GMUD & Qualidade** | 06/2015–04/2021 |
 
-### Acadêmico
+### Acadêmico & Pesquisa
 
 | Atuação | Período |
 |---|---|
 | **Pesquisador em Investigação Digital** | Desde 06/2024 |
 | **Pesquisador em OSINT & SOCMINT** | Desde 01/2022 |
-| **Pesquisador em Psicologia** | Desde 09/2016 |
-| **Psicólogo Clínico** | Desde 06/2021 |
+| **Pesquisador em Psicologia / Psicólogo Clínico** | Desde 09/2016 / 06/2021 |
 | **Professor universitário** | 09/2022–06/2024 |
 | **Cybersecurity Mentor** | 08/2022–06/2026 |
-
-### Linha do tempo
-
-~~~mermaid
-gantt
-    title Trajetória Profissional e Acadêmica
-    dateFormat YYYY-MM-DD
-    axisFormat %Y
-    section Profissional
-    Suporte a Sistemas :done, 2015-06-01, 2018-09-01
-    GMUD e Qualidade :done, 2019-01-01, 2021-04-01
-    Especialista em Cybersecurity :done, 2021-04-01, 2021-08-01
-    SOC Analyst :done, 2021-08-01, 2021-12-01
-    Cybersecurity Tech Lead :done, 2021-12-01, 2022-05-01
-    Coordenador de Cybersecurity :done, 2022-05-01, 2024-10-01
-    Cyber Research e Detecção :active, 2024-10-01, 2026-09-26
-    section Acadêmico
-    Pesquisa em Psicologia :active, 2016-09-01, 2026-09-26
-    Psicologia Clínica :active, 2021-06-01, 2026-09-26
-    Pesquisa OSINT e SOCMINT :active, 2022-01-01, 2026-09-26
-    Professor universitário :done, 2022-09-01, 2024-06-01
-    Mentoria em Cybersecurity :done, 2022-08-01, 2026-06-01
-    Investigação Digital :active, 2024-06-01, 2026-09-26
-~~~
-
-*As atividades em andamento são representadas até 26 de setembro de 2026; essa data não indica encerramento.*
 
 </details>
 
