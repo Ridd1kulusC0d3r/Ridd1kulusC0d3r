@@ -2,7 +2,7 @@
 
 # Deivison Lourenço
 
-**Cyber Threat Intelligence · OSINT & SOCMINT · Engenharia de Detecção**
+**Cyber Threat Intelligence · OSINT & SOCMINT · Detection Engineering · Digital Investigation · Threat Modeling · Behavioral OSINT**
 
 Head de Pesquisa & Inovação na Clavis Segurança da Informação  
 Mestrando em Engenharia de Software na CESAR School · Psicólogo
@@ -11,9 +11,10 @@ Mestrando em Engenharia de Software na CESAR School · Psicólogo
 <a href="#sobre">sobre</a> ·
 <a href="#projetos">projetos</a> ·
 <a href="#pesquisas-e-estudos">pesquisa</a> ·
-<a href="https://github.com/Ridd1kulusC0d3r/Palestras">palestras</a> ·
+<a href="https://github.com/Ridd1kulusC0d3r/T4lks">palestras</a> ·
 <a href="https://github.com/Ridd1kulusC0d3r/OsintUAI">podcast</a> ·
 <a href="https://www.linkedin.com/in/deivisonlourencos/">linkedin</a> ·
+<a href="https://www.instagram.com/deivisonlourencos/">instagram</a> ·
 <a href="mailto:deivsec@gmail.com">e-mail</a>
 </samp>
 
@@ -65,7 +66,7 @@ Recursos de estudo sobre atores, cenários de ataque e modelagem de ameaças.
 Apresentações e materiais para compartilhar conhecimento com a comunidade.  
 `Acervo de apresentações`
 
-[Ver apresentações →](https://github.com/Ridd1kulusC0d3r/Palestras)
+[Ver apresentações →](https://github.com/Ridd1kulusC0d3r/T4lks)
 
 **Mais conteúdo:** [OsintUAI — episódios e entrevistas](https://github.com/Ridd1kulusC0d3r/OsintUAI) · [Todos os repositórios](https://github.com/Ridd1kulusC0d3r?tab=repositories)
 
