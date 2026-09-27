@@ -34,6 +34,9 @@ Minha formação em Psicologia, com especialização em Ciência das Emoções e
 
 ## Projetos
 
+<details>
+<summary><strong>Ver projetos em destaque</strong></summary>
+
 ### 01 · OSINT
 **Investigação em fontes abertas**
 
@@ -60,9 +63,14 @@ Apresentações e materiais para compartilhar conhecimento com a comunidade.
 
 **Mais conteúdo:** [OsintUAI — episódios e entrevistas](https://github.com/Ridd1kulusC0d3r/OsintUAI) · [Todos os repositórios](https://github.com/Ridd1kulusC0d3r?tab=repositories)
 
+</details>
+
 ---
 
 ## Arsenal
+
+<details>
+<summary><strong>Ver arsenal técnico</strong></summary>
 
 | Área | Prática e ferramentas |
 |---|---|
@@ -72,6 +80,8 @@ Apresentações e materiais para compartilhar conhecimento com a comunidade.
 | **◈ IA aplicada** | Pesquisa e enriquecimento de dados, com revisão humana e rastreabilidade |
 | **▤ Ambiente de trabalho** | <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square" height="24" alt="VS Code" /></a> <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad%2B%2B-000000?style=flat-square&logo=notepadplusplus&logoColor=white" height="24" alt="Notepad++" /></a> <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="24" alt="Notion" /></a> <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" height="24" alt="Obsidian" /></a> |
 | **↗ Projetos** | [OSINT](https://github.com/Ridd1kulusC0d3r/OSINT) · [Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling) · [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI) |
+
+</details>
 
 ---
 
@@ -124,6 +134,9 @@ Apresentações e materiais para compartilhar conhecimento com a comunidade.
 
 ## Pesquisas e estudos
 
+<details>
+<summary><strong>Ver pesquisas e linhas de estudo</strong></summary>
+
 ### 2026 · T.O.C.A.I.A.
 Framework de inteligência OSINT comportamental.
 
@@ -145,6 +158,8 @@ Análise de perfilamento indireto da personalidade.
 | **2021** | Ciência das Emoções |
 | **2018–2021** | Ansiedade e a impossibilidade de ação na psicanálise: uma análise da neurose obsessiva |
 | **2017** | Nomofobia |
+
+</details>
 
 </details>
 
@@ -259,6 +274,9 @@ gantt
 
 ## Atividade no GitHub
 
+<details>
+<summary><strong>Ver estatísticas e atividade</strong></summary>
+
 <div align="center">
   <img src="https://github.com/Ridd1kulusC0d3r/Ridd1kulusC0d3r/assets/142614578/756a06f8-4fb4-4a48-b56e-94b0b848d100" width="320" alt="DEIVOSINT" />
 </div>
@@ -268,10 +286,7 @@ gantt
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridd1kulusC0d3r&hide=Html&theme=github" width="300" alt="Linguagens por repositório" />
 </p>
 
-<details>
-<summary><strong>▥ Ver histórico e gráficos de atividade</strong></summary>
 
-<br />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridd1kulusC0d3r&theme=github" width="600" alt="Histórico de contribuições no GitHub" />
