@@ -57,74 +57,42 @@ My background in Psychology, together with studies in the Science of Emotions an
 
 ## Selected Work
 
-These projects represent the same research and engineering practice from different angles: behavioral intelligence, evidence quality, OSINT methodology, threat modeling, detection, campaign analysis, and reproducible investigation.
+A compact view of the projects that best represent my research and engineering practice.
 
 ### T.O.C.A.I.A.
-**Behavioral OSINT & Detection by Absence**
-
-A research-grade intelligence framework for turning *missing expected observations* into auditable intelligence without confusing behavioral silence with collection failure. It formalizes detectability, baselines, competing hypotheses, confidence, provenance, and reproducibility.
-
-[Explore T.O.C.A.I.A. →](https://github.com/Ridd1kulusC0d3r/tocaia-osint)
-
-`Behavioral OSINT · absence analysis · competing hypotheses · provenance · uncertainty`
+**Behavioral OSINT & Detection by Absence**  
+Research framework for turning missing expected observations into auditable intelligence.  
+[Explore →](https://github.com/Ridd1kulusC0d3r/tocaia-osint)
 
 ### Mineiro Username Intelligence
-**OSINT Investigation Workbench**
-
-A username-intelligence workbench that separates collection, evidence, correlation, and assessment. It includes a large detector registry, evidence scoring, contradiction handling, provenance, analytic hypotheses, relationship graphs, and auditable exports.
-
-[Explore Mineiro →](https://github.com/Ridd1kulusC0d3r/Mineiro-OSINT-Extractor)
-
-`Username intelligence · evidence engine · correlation · analytic ledger · reporting`
+**OSINT Investigation Workbench**  
+Evidence-first username intelligence with correlation, hypotheses, provenance, graphs, and auditable reporting.  
+[Explore →](https://github.com/Ridd1kulusC0d3r/Mineiro-OSINT-Extractor)
 
 ### Tropeiro Intel
-**Campaign Intelligence for phishing investigations**
-
-A defensive OSINT and threat-intelligence laboratory for analyzing phishing and fraud campaigns from IOCs, infrastructure, observed contacts, and lure text. It connects evidence, campaign clustering, competing hypotheses, attribution controls, next-best pivots, and detection candidates.
-
-[Explore Tropeiro Intel →](https://github.com/Ridd1kulusC0d3r/tropeiro-intel)
-
-`Threat Intelligence · phishing · campaign analysis · attribution controls · detection bridge`
-
-### OSINT Checklist // Analyst Workbench
-**Method, logbook & decision-oriented investigation**
-
-A local-first analyst workbench with 143 methodological checks organized across 20 phases and 5 decision stages. It combines a quick investigation logbook with structured evidence, entities, relationships, timelines, findings, source evaluation, and reporting.
-
-[Explore OSINT Checklist →](https://github.com/Ridd1kulusC0d3r/osintchecklist)
-
-`OSINT methodology · evidence · source evaluation · logbook · reproducibility`
-
-### Cyber Threat Context Modeling
-**Threat modeling connected to detection**
-
-Research and study material for connecting threat actors, attack scenarios, organizational context, critical assets, and defensive engineering.
-
-[Explore Cyber Threat Context Modeling →](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling)
-
-`Threat Modeling · Detection Engineering · CTI · attack scenarios · SOC context`
-
-### Talks & Community
-**T4lks · OsintUAI**
-
-Talks, workshops, interviews, and technical material connecting cybersecurity, OSINT, intelligence, investigation, and human behavior.
-
-[Talks →](https://github.com/Ridd1kulusC0d3r/T4lks) · [OsintUAI →](https://github.com/Ridd1kulusC0d3r/OsintUAI)
+**Campaign Intelligence for phishing investigations**  
+Defensive OSINT/CTI lab for campaign analysis, attribution controls, pivots, and detection candidates.  
+[Explore →](https://github.com/Ridd1kulusC0d3r/tropeiro-intel)
 
 <details>
-<summary><strong>View research lines & engineering stack</strong></summary>
+<summary><strong>View more projects, research & engineering stack</strong></summary>
+
+### More Projects
+
+- **[OSINT Checklist](https://github.com/Ridd1kulusC0d3r/osintchecklist)** — 143 methodological checks, 20 phases, 5 decision stages, evidence, logbook, source evaluation, and reporting.
+- **[Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling)** — threat actors, attack scenarios, critical assets, threat modeling, and detection engineering.
+- **[T4lks](https://github.com/Ridd1kulusC0d3r/T4lks) · [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI)** — talks, workshops, interviews, and research dissemination.
+- **[OSINT](https://github.com/Ridd1kulusC0d3r/OSINT)** — study repository, references, scripts, and experimentation.
 
 ### Research & Engineering Stack
 
-| Domain | Skills & Methods | Related Work |
+| Domain | Core skills | Related work |
 |---|---|---|
-| **Behavioral Intelligence** | Behavioral OSINT · SOCMINT · indirect profiling · behavioral signals · human factors · contextual analysis | T.O.C.A.I.A. |
-| **OSINT Investigation Engineering** | Collection planning · evidence handling · provenance · source evaluation · correlation · graph analysis · reproducible reporting | Mineiro · OSINT Checklist · OSINT |
-| **Threat Intelligence & Campaign Analysis** | IOC enrichment · campaign clustering · ACH · attribution controls · collection gaps · next-best pivots | Tropeiro Intel |
-| **Threat Modeling & Detection** | Threat modeling · attack scenarios · detection engineering · indicator analysis · SOC decision support · threat context | Cyber Threat Context Modeling · Tropeiro Intel |
-| **Automation & Research Engineering** | Python · Go · JavaScript · structured analysis · local-first tooling · Colab workflows · CI | Mineiro · Tropeiro Intel · research tooling |
-| **Applied AI** | AI-assisted research · evidence-grounded synthesis · human review · traceability · reproducibility | Mineiro · research workflows |
-| **Knowledge & Community** | Talks · technical writing · interviews · teaching · mentoring | T4lks · OsintUAI |
+| **Behavioral Intelligence** | Behavioral OSINT · SOCMINT · indirect profiling · human factors · uncertainty | T.O.C.A.I.A. |
+| **OSINT Engineering** | Collection · evidence · provenance · source evaluation · correlation · graph analysis | Mineiro · OSINT Checklist |
+| **Threat Intelligence** | IOC enrichment · campaign analysis · ACH · attribution controls · collection gaps | Tropeiro Intel |
+| **Threat Modeling & Detection** | Attack scenarios · threat context · detection engineering · SOC decision support | Cyber Threat Context Modeling · Tropeiro |
+| **Automation & Applied AI** | Python · Go · JavaScript · Colab · CI · evidence-grounded AI · human review | Mineiro · Tropeiro · research tooling |
 
 ### Research Timeline
 
@@ -134,14 +102,12 @@ Talks, workshops, interviews, and technical material connecting cybersecurity, O
 | **2025** | **SOCMINT** — Mapping behavioral patterns across social networks |
 | **2024** | **Indirect Profiling** — Analysis of indirect personality profiling |
 | **2023** | Threat Intelligence and threat-modeling architecture |
-| **2022** | Burnout and stress: psychological and physical impacts on the individual |
+| **2022** | Burnout and stress |
 | **2021** | Science of Emotions |
-| **2018–2021** | Anxiety and the impossibility of action in psychoanalysis: an analysis of obsessive neurosis |
+| **2018–2021** | Anxiety and obsessive neurosis |
 | **2017** | Nomophobia |
 
-### Additional repositories
-
-[OSINT study repository →](https://github.com/Ridd1kulusC0d3r/OSINT) · [All repositories →](https://github.com/Ridd1kulusC0d3r?tab=repositories)
+[All repositories →](https://github.com/Ridd1kulusC0d3r?tab=repositories)
 
 </details>
 
