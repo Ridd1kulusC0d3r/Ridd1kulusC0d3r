@@ -58,22 +58,52 @@ Mi formación en Psicología, junto con estudios en Ciencia de las Emociones y A
 
 ## Trabajo Destacado
 
-Una vista compacta de los proyectos que mejor representan mi práctica de investigación e ingeniería.
+Los proyectos que mejor representan mi práctica de investigación e ingeniería — todos defensivos, basados en evidencia y reproducibles.
 
-### T.O.C.A.I.A.
-**Behavioral OSINT & Detection by Absence**  
-Framework para convertir observaciones esperadas ausentes en inteligencia auditable.  
-[Explorar →](https://github.com/Ridd1kulusC0d3r/tocaia-osint)
-
-### Mineiro Username Intelligence
-**OSINT Investigation Workbench**  
-Username intelligence basada en evidencia, con correlación, hipótesis, procedencia, grafos y reporting auditable.  
-[Explorar →](https://github.com/Ridd1kulusC0d3r/Mineiro-OSINT-Extractor)
-
-### Tropeiro Intel
-**Campaign Intelligence para investigaciones de phishing**  
-Laboratorio defensivo OSINT/CTI para análisis de campañas, controles de atribución, pivotes y candidatos de detección.  
-[Explorar →](https://github.com/Ridd1kulusC0d3r/tropeiro-intel)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ridd1kulusC0d3r/LLmInjection">LLmInjection</a></h3>
+<b>Threat Intelligence de IA · LLM · Agentes</b><br>
+<sub>Threat landscape abierto para sistemas de IA: actores, campañas, técnicas, casos de prueba seguros, detecciones Sigma/KQL/SPL y STIX 2.1, cada afirmación con fuente y grado.</sub><br><br>
+<a href="https://github.com/Ridd1kulusC0d3r/LLmInjection">Repositorio →</a> · <a href="https://ridd1kulusc0d3r.github.io/LLmInjection/">Explorer</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ridd1kulusC0d3r/tocaia-osint">T.O.C.A.I.A.</a></h3>
+<b>Behavioral OSINT & Detection by Absence</b><br>
+<sub>Framework para convertir observaciones esperadas ausentes en inteligencia auditable, sin confundir silencio con fallo de recopilación.</sub><br><br>
+<a href="https://github.com/Ridd1kulusC0d3r/tocaia-osint">Repositorio →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ridd1kulusC0d3r/ThePensieveProject">The Pensieve Project</a></h3>
+<b>Timeline DFIR & OSINT acotado por evidencia</b><br>
+<sub>Timeline forense canónica con frontera estricta entre evidencia, correlación, inferencia e hipótesis; el razonamiento con LLM local debe citar IDs de eventos.</sub><br><br>
+<a href="https://github.com/Ridd1kulusC0d3r/ThePensieveProject">Repositorio →</a> · <a href="https://colab.research.google.com/github/Ridd1kulusC0d3r/ThePensieveProject/blob/main/colab/first_investigation.ipynb">Colab</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ridd1kulusC0d3r/FIO">F.I.O. Lab</a></h3>
+<b>Análisis de vínculos · Teléfonos & registros públicos BR</b><br>
+<sub>Cruza teléfonos, CNPJ, socios, dominios y diarios oficiales en un grafo de vínculos donde cada arista lleva su fuente. Python stdlib puro.</sub><br><br>
+<a href="https://github.com/Ridd1kulusC0d3r/FIO">Repositorio →</a> · <a href="https://colab.research.google.com/github/Ridd1kulusC0d3r/FIO/blob/main/colab/FIO_Lab_Colab.ipynb">Colab</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ridd1kulusC0d3r/Mineiro-OSINT-Extractor">Mineiro Username Intelligence</a></h3>
+<b>OSINT Investigation Workbench</b><br>
+<sub>Username intelligence con correlación cautelosa, hipótesis, procedencia, grafos y reporting auditable.</sub><br><br>
+<a href="https://github.com/Ridd1kulusC0d3r/Mineiro-OSINT-Extractor">Repositorio →</a> · <a href="https://colab.research.google.com/github/Ridd1kulusC0d3r/Mineiro-OSINT-Extractor/blob/main/notebooks/Mineiro_Username_Intelligence_Colab.ipynb">Colab</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ridd1kulusC0d3r/tropeiro-intel">Tropeiro Intel</a></h3>
+<b>Campaign Intelligence para phishing</b><br>
+<sub>Laboratorio defensivo OSINT/CTI para análisis de campañas, controles de atribución, pivotes y candidatos de detección, con exportación STIX · MISP · Sigma.</sub><br><br>
+<a href="https://github.com/Ridd1kulusC0d3r/tropeiro-intel">Repositorio →</a> · <a href="https://colab.research.google.com/github/Ridd1kulusC0d3r/tropeiro-intel/blob/main/notebooks/Tropeiro_Intel_Official_Colab.ipynb">Colab</a>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><strong>Ver más proyectos, investigación & stack de ingeniería</strong></summary>
@@ -90,16 +120,18 @@ Laboratorio defensivo OSINT/CTI para análisis de campañas, controles de atribu
 | Dominio | Habilidades centrales | Trabajo relacionado |
 |---|---|---|
 | **Inteligencia Conductual** | Behavioral OSINT · SOCMINT · perfilado indirecto · factores humanos · incertidumbre | T.O.C.A.I.A. |
-| **Ingeniería OSINT** | Recopilación · evidencia · procedencia · evaluación de fuentes · correlación · análisis de grafos | Mineiro · OSINT Checklist |
-| **Threat Intelligence** | Enriquecimiento de IOCs · análisis de campañas · ACH · controles de atribución · brechas de recopilación | Tropeiro Intel |
-| **Threat Modeling & Detección** | Escenarios de ataque · contexto de amenaza · detection engineering · apoyo a decisiones SOC | Cyber Threat Context Modeling · Tropeiro |
-| **Automatización & IA Aplicada** | Python · Go · JavaScript · Colab · CI · IA basada en evidencia · revisión humana | Mineiro · Tropeiro · research tooling |
+| **Ingeniería OSINT** | Recopilación · evidencia · procedencia · evaluación de fuentes · correlación · análisis de grafos | Mineiro · F.I.O. Lab · OSINT Checklist |
+| **Threat Intelligence** | Enriquecimiento de IOCs · análisis de campañas · ACH · controles de atribución · brechas de recopilación | Tropeiro Intel · LLmInjection |
+| **Threat Modeling & Detección** | Escenarios de ataque · contexto de amenaza · detection engineering · apoyo a decisiones SOC | Cyber Threat Context Modeling · Tropeiro · LLmInjection |
+| **Seguridad de IA** | Amenazas a LLMs y agentes · riesgos de prompt, RAG, MCP y supply chain · ATLAS · OWASP · MAESTRO | LLmInjection |
+| **DFIR & Evidencia** | Timelines forenses · cadena de custodia · hashing de evidencias · IA acotada por evidencia | The Pensieve Project · F.I.O. Lab |
+| **Automatización & IA Aplicada** | Python · Go · JavaScript · Colab · CI · IA basada en evidencia · revisión humana | Mineiro · Tropeiro · Pensieve · F.I.O. |
 
 ### Línea de tiempo de investigación
 
 | Año | Línea de investigación |
 |---|---|
-| **2026** | **T.O.C.A.I.A.** — Behavioral OSINT y Detection by Absence |
+| **2026** | **T.O.C.A.I.A.** — Behavioral OSINT y Detection by Absence · **LLmInjection** — threat landscape de IA |
 | **2025** | **SOCMINT** — Mapeo de patrones de comportamiento en redes sociales |
 | **2024** | **Perfilado indirecto** — Análisis del perfilado indirecto de personalidad |
 | **2023** | Threat Intelligence y arquitectura de threat modeling |
