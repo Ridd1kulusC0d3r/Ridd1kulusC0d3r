@@ -104,6 +104,16 @@ The projects that best represent my research and engineering practice — all de
 </tr>
 </table>
 
+### 🎙️ Featured Media & Knowledge Sharing
+
+<a href="https://github.com/Ridd1kulusC0d3r/OsintUAI">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1100&color=35D0C1&width=680&lines=OSINT+UAI+%7C+PODCAST;Open-Source+Intelligence+%26+Digital+Investigation" alt="OSINT Uai Podcast" />
+</a>
+
+**[OSINT Uai · Podcast](https://github.com/Ridd1kulusC0d3r/OsintUAI)** brings together conversations with practitioners about open-source intelligence, digital investigations and cybersecurity. Browse **seven documented episodes**, guest interviews and source-linked episode notes.
+
+[▶ Watch the official playlist](https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi) · [📚 Explore episode archive](https://github.com/Ridd1kulusC0d3r/OsintUAI/tree/main/temporadas/01) · [🎙️ Podcast repository](https://github.com/Ridd1kulusC0d3r/OsintUAI)
+
 <details>
 <summary><strong>View more projects, research & engineering stack</strong></summary>
 
