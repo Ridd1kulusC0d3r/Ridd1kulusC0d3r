@@ -56,93 +56,70 @@ Mi formación en Psicología, junto con estudios en Ciencia de las Emociones y A
 
 <a id="work"></a>
 
-## Trabajo Destacado
+## Proyectos destacados
 
-Los proyectos que mejor representan mi práctica de investigación e ingeniería — todos defensivos, basados en evidencia y reproducibles.
+Proyectos públicos que conectan evidencia de fuentes abiertas, análisis conductual e ingeniería defensiva. Las versiones experimentales y alpha están identificadas; cada repositorio documenta sus límites.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Ridd1kulusC0d3r/LLmInjection">LLmInjection</a></h3>
-<b>Threat Intelligence de IA · LLM · Agentes</b><br>
-<sub>Threat landscape abierto para sistemas de IA: actores, campañas, técnicas, casos de prueba seguros, detecciones Sigma/KQL/SPL y STIX 2.1, cada afirmación con fuente y grado.</sub><br><br>
-<a href="https://github.com/Ridd1kulusC0d3r/LLmInjection">Repositorio →</a> · <a href="https://ridd1kulusc0d3r.github.io/LLmInjection/">Explorer</a>
+<h3><a href="https://github.com/Ridd1kulusC0d3r/tocaia-osint">T.O.C.A.I.A.</a></h3>
+<b>Behavioral OSINT · Investigación experimental</b><br><br>
+Comportamiento observable, hipótesis alternativas, detección por ausencia y evaluación de pronósticos condicionales. Su rendimiento predictivo aún no está demostrado.
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Ridd1kulusC0d3r/tocaia-osint">T.O.C.A.I.A.</a></h3>
-<b>Behavioral OSINT & Detection by Absence</b><br>
-<sub>Framework para convertir observaciones esperadas ausentes en inteligencia auditable, sin confundir silencio con fallo de recopilación.</sub><br><br>
-<a href="https://github.com/Ridd1kulusC0d3r/tocaia-osint">Repositorio →</a>
+<h3><a href="https://github.com/Ridd1kulusC0d3r/LLmInjection">LLmInjection</a></h3>
+<b>Panorama de amenazas de IA</b><br><br>
+Investigación con fuentes sobre amenazas a LLMs, agentes e infraestructura de IA, con actores, técnicas, especificaciones defensivas y reglas implementadas.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling">Threat Context Engineering</a></h3>
+<b>Arquitectura empresarial · Threat Modeling</b><br><br>
+Conecta activos críticos, límites de confianza, rutas de ataque, controles preventivos, contratos de telemetría e hipótesis de detección.
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Ridd1kulusC0d3r/OsintbrFLOW">OSINT Brasil Flow</a></h3>
+<b>OSINT brasileño · Alpha</b><br><br>
+Workspace basado en Flowsint para investigación empresarial y territorial: CNPJ, CEP, municipios, procedencia y exportación de evidencia.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Ridd1kulusC0d3r/ThePensieveProject">The Pensieve Project</a></h3>
-<b>Timeline DFIR & OSINT acotado por evidencia</b><br>
-<sub>Timeline forense canónica con frontera estricta entre evidencia, correlación, inferencia e hipótesis; el razonamiento con LLM local debe citar IDs de eventos.</sub><br><br>
-<a href="https://github.com/Ridd1kulusC0d3r/ThePensieveProject">Repositorio →</a> · <a href="https://colab.research.google.com/github/Ridd1kulusC0d3r/ThePensieveProject/blob/main/colab/first_investigation.ipynb">Colab</a>
+<b>DFIR · Evidencia y timelines</b><br><br>
+Timelines forenses y flujos de investigación que separan evidencia, correlación, inferencia e hipótesis.
 </td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Ridd1kulusC0d3r/FIO">F.I.O. Lab</a></h3>
-<b>Análisis de vínculos · Teléfonos & registros públicos BR</b><br>
-<sub>Cruza teléfonos, CNPJ, socios, dominios y diarios oficiales en un grafo de vínculos donde cada arista lleva su fuente. Python stdlib puro.</sub><br><br>
-<a href="https://github.com/Ridd1kulusC0d3r/FIO">Repositorio →</a> · <a href="https://colab.research.google.com/github/Ridd1kulusC0d3r/FIO/blob/main/colab/FIO_Lab_Colab.ipynb">Colab</a>
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Ridd1kulusC0d3r/Mineiro-OSINT-Extractor">Mineiro Username Intelligence</a></h3>
-<b>OSINT Investigation Workbench</b><br>
-<sub>Username intelligence con correlación cautelosa, hipótesis, procedencia, grafos y reporting auditable.</sub><br><br>
-<a href="https://github.com/Ridd1kulusC0d3r/Mineiro-OSINT-Extractor">Repositorio →</a> · <a href="https://colab.research.google.com/github/Ridd1kulusC0d3r/Mineiro-OSINT-Extractor/blob/main/notebooks/Mineiro_Username_Intelligence_Colab.ipynb">Colab</a>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Ridd1kulusC0d3r/tropeiro-intel">Tropeiro Intel</a></h3>
-<b>Campaign Intelligence para phishing</b><br>
-<sub>Laboratorio defensivo OSINT/CTI para análisis de campañas, controles de atribución, pivotes y candidatos de detección, con exportación STIX · MISP · Sigma.</sub><br><br>
-<a href="https://github.com/Ridd1kulusC0d3r/tropeiro-intel">Repositorio →</a> · <a href="https://colab.research.google.com/github/Ridd1kulusC0d3r/tropeiro-intel/blob/main/notebooks/Tropeiro_Intel_Official_Colab.ipynb">Colab</a>
+<b>Investigación de usernames</b><br><br>
+Workbench para organizar hallazgos de usernames, procedencia, correlaciones e hipótesis analíticas.
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>Ver más proyectos, investigación & stack de ingeniería</strong></summary>
+### Principios de investigación
 
-### Más Proyectos
+Procedencia de fuentes · Hipótesis alternativas · Incertidumbre explícita · Métodos reproducibles · Revisión humana
 
-- **[OSINT Checklist](https://github.com/Ridd1kulusC0d3r/osintchecklist)** — 143 comprobaciones metodológicas, 20 fases, 5 etapas de decisión, evidencia, logbook, evaluación de fuentes y reporting.
-- **[Cyber Threat Context Modeling](https://github.com/Ridd1kulusC0d3r/Cyber-Threat-Context-Modeling)** — actores de amenaza, escenarios de ataque, activos críticos, threat modeling y detection engineering.
-- **[T4lks](https://github.com/Ridd1kulusC0d3r/T4lks) · [OsintUAI](https://github.com/Ridd1kulusC0d3r/OsintUAI)** — charlas, workshops, entrevistas y divulgación de investigación.
-- **[OSINT](https://github.com/Ridd1kulusC0d3r/OSINT)** — estudios, referencias, scripts y experimentación.
+### Explorar por interés
 
-### Research & Engineering Stack
-
-| Dominio | Habilidades centrales | Trabajo relacionado |
+| Interés | Repositorio | Punto de partida |
 |---|---|---|
-| **Inteligencia Conductual** | Behavioral OSINT · SOCMINT · perfilado indirecto · factores humanos · incertidumbre | T.O.C.A.I.A. |
-| **Ingeniería OSINT** | Recopilación · evidencia · procedencia · evaluación de fuentes · correlación · análisis de grafos | Mineiro · F.I.O. Lab · OSINT Checklist |
-| **Threat Intelligence** | Enriquecimiento de IOCs · análisis de campañas · ACH · controles de atribución · brechas de recopilación | Tropeiro Intel · LLmInjection |
-| **Threat Modeling & Detección** | Escenarios de ataque · contexto de amenaza · detection engineering · apoyo a decisiones SOC | Cyber Threat Context Modeling · Tropeiro · LLmInjection |
-| **Seguridad de IA** | Amenazas a LLMs y agentes · riesgos de prompt, RAG, MCP y supply chain · ATLAS · OWASP · MAESTRO | LLmInjection |
-| **DFIR & Evidencia** | Timelines forenses · cadena de custodia · hashing de evidencias · IA acotada por evidencia | The Pensieve Project · F.I.O. Lab |
-| **Automatización & IA Aplicada** | Python · Go · JavaScript · Colab · CI · IA basada en evidencia · revisión humana | Mineiro · Tropeiro · Pensieve · F.I.O. |
+| Entorno de investigación | [TOCAIALinux](https://github.com/Ridd1kulusC0d3r/TOCAIALinux) | Entorno OSINT organizado por fase de investigación. |
+| Método de investigación | [osintchecklist](https://github.com/Ridd1kulusC0d3r/osintchecklist) | Checklists, evaluación de fuentes y documentación de evidencia. |
+| IA aplicada | [OSINTAI](https://github.com/Ridd1kulusC0d3r/OSINTAI) | Recursos e investigación sobre OSINT asistido por IA. |
+| Inteligencia de amenazas | [Cyber_Threat_intelligence-Internals](https://github.com/Ridd1kulusC0d3r/Cyber_Threat_intelligence-Internals) | Referencias y estudio técnico de CTI. |
+| Automatización | [Scripts](https://github.com/Ridd1kulusC0d3r/Scripts) | Scripts y recursos de estudio práctico. |
 
-### Línea de tiempo de investigación
+### 🎙️ Charlas y podcast
 
-| Año | Línea de investigación |
-|---|---|
-| **2026** | **T.O.C.A.I.A.** — Behavioral OSINT y Detection by Absence · **LLmInjection** — threat landscape de IA |
-| **2025** | **SOCMINT** — Mapeo de patrones de comportamiento en redes sociales |
-| **2024** | **Perfilado indirecto** — Análisis del perfilado indirecto de personalidad |
-| **2023** | Threat Intelligence y arquitectura de threat modeling |
-| **2022** | Burnout y estrés |
-| **2021** | Ciencia de las Emociones |
-| **2018–2021** | Ansiedad y neurosis obsesiva |
-| **2017** | Nomofobia |
+**[OSINT Uai · Podcast](https://github.com/Ridd1kulusC0d3r/OsintUAI)** — Conversaciones sobre OSINT, investigación digital y ciberseguridad, con episodios documentados y enlaces a las fuentes originales.
+
+[YouTube](https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi) · **[T4lks](https://github.com/Ridd1kulusC0d3r/T4lks)** — Charlas, presentaciones y talleres.
 
 [Todos los repositorios →](https://github.com/Ridd1kulusC0d3r?tab=repositories)
-
-</details>
 
 ---
 
